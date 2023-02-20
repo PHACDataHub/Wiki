@@ -1,22 +1,20 @@
-Memorandum of Understanding (MOU) between Public Health Association of Canada (PHAC) and External Group
+Memorandum of Understanding (MOU) between Public Health Data Center of Practice (PDCP) and [Name of Partner Organization]
 
-This MOU is entered into by and between the Public Health Association of Canada (PHAC) and [Name of External Group], effective as of [Date].
+This MOU is entered into by and between the Public Health Data Center of Practice (PDCP) and [Name of Partner Organization], effective as of [Date].
 
-## Purpose
+Purpose
 
-This MOU sets forth the terms and understanding between PHAC and [Name of External Group] for collaboration and engagement in relation to sharing of templates, documents, policies, and processes to better support public health and public health data projects.
+This MOU sets forth the terms and understanding between the Public Health Data Center of Practice and [Name of Partner Organization] for collaboration and engagement in relation to sharing technology resources and related information.
 
-## Scope
+Scope
 
 The scope of this MOU includes, but is not limited to, the following:
 
-    The External Group is authorized to access and use PHAC's shared templates, documents, policies, and processes in support of their public health data projects.
-    PHAC will provide the External Group with access to the PHAC Data Center of Practice's technical services and support as needed, within the terms of this MOU.
-    PHAC will work with the External Group to identify opportunities for collaboration and joint initiatives in the public health and public health data domains.
-
-Data Confidentiality and Security
-
-PHAC and [Name of External Group] acknowledge the sensitivity of the data and information to be shared and shall comply with all applicable laws and regulations related to data confidentiality and security.
+- Sharing of technology and cloud resources between the Public Health Data Center of Practice and [Name of Partner Organization] to support public health data projects.
+- Sharing of templates, documents, policies and process between the Public Health Data Center of Practice and [Name of Partner Organization].
+- Establishing regular communication channels between the Public Health Data Center of Practice and [Name of Partner Organization] to ensure smooth collaboration and effective engagement.
+- Adhering to the agreed-upon project ID naming standards as outlined in [[Project-ID-Naming-Standard]].
+- Adhering to all applicable laws, regulations, and policies governing the use and sharing of data and technology.
 
 Duration
 
@@ -34,14 +32,14 @@ This MOU constitutes the entire agreement between the parties and supersedes any
 
 The undersigned parties hereby execute this MOU as of the date first written above.
 
-Public Health Association of Canada:
+Public Health Data Center of Practice:
 
 [Insert Name]
 [Insert Title]
 
 [Insert Date]
 
-External Group:
+[Name of Partner Organization]:
 
 [Insert Name]
 [Insert Title]
