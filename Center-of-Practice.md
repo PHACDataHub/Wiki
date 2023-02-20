@@ -33,6 +33,7 @@ The Public Health Data Center of Practice uses cloud computing services to store
 ### Policies
 * [[COP Cloud Governance Policy]]
 * [[COP Security Policy]]
+* [[COP Incident Management Policy]]
 * [[COP Compliance Policy]]
 * [[Data Management Policy]]
 
