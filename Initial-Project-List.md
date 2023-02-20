@@ -3,6 +3,10 @@
 ## Overview
 The Public Health Data Center of Practice is committed to improving public health outcomes through the collection, analysis, and sharing of health data. To achieve this, we have identified the following key projects:
 
+## Project ID Naming Standard
+The Public Health Data Center of Practice has established a Project ID Naming Standard to ensure consistency and clarity in project identification across the organization. This standard requires that all project IDs consist of a prefix that identifies the project as belonging to the Public Health Data Center of Practice, followed by a unique project identifier that reflects the project's purpose and deliverables. The unique project identifier must be a combination of letters and numbers, and should be concise, meaningful, and easily recognizable. The full Project ID Naming Standard document is available at [[Project-ID-Naming-Standard]].
+
+
 ### [PDCP-GOV-001] Governance Secretariat
 #### Project Description
 The Governance Secretariat project will establish a governance framework to guide data system changes, support the operations of the Technology Advisory Council, and integrate with the HC-PHAC Architecture Review Board. This framework will ensure that the use of data is aligned with public health objectives and that the right policies and procedures are in place to protect privacy, confidentiality, and security.
