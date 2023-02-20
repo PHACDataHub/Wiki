@@ -8,7 +8,7 @@ The Public Health Data Center of Practice has established a Project ID Naming St
 
 ## Initial Project List
 
-### [PDCP-GOV-001] Governance Secretariat
+### Governance Secretariat
 ProjectID : [PDCP-GOV-001] 
  
 #### Project Description
@@ -22,7 +22,7 @@ The Governance Secretariat project will establish a governance framework to guid
 #### Relevance to Public Health Association of Canada
 This project satisfies the PHAC objective of promoting a robust public health system by ensuring that data is collected, analyzed, and shared in a way that is consistent with public health objectives and protects individual privacy.
 
-### [PDCP-CLOUD-001] Cloud Adoption Framework
+### Cloud Adoption Framework
 ProjectID: [PDCP-CLOUD-001]
 
 #### Project Description
@@ -37,6 +37,7 @@ The Cloud Adoption Framework project will develop a framework to guide the imple
 This project satisfies the PHAC objective of promoting a robust public health system by enabling the interoperability of data across different systems and ensuring that the use of cloud technologies is aligned with public health objectives.
 
 ### [PDCP-INTEROP-001] Interoperability (API) Platform
+ProjectID:
 #### Project Description
 The Interoperability (API) Platform project will deploy an interoperability platform to enable connectivity of 35% of baseline surveillance systems by March 2024. This platform will allow for the seamless exchange of data across different systems and support the collection and analysis of data to inform public health decisions.
 
