@@ -36,8 +36,9 @@ The Cloud Adoption Framework project will develop a framework to guide the imple
 #### Relevance to Public Health Association of Canada
 This project satisfies the PHAC objective of promoting a robust public health system by enabling the interoperability of data across different systems and ensuring that the use of cloud technologies is aligned with public health objectives.
 
-### [PDCP-INTEROP-001] Interoperability (API) Platform
-ProjectID:
+### Interoperability (API) Platform
+ProjectID: [PDCP-INTEROP-001] 
+
 #### Project Description
 The Interoperability (API) Platform project will deploy an interoperability platform to enable connectivity of 35% of baseline surveillance systems by March 2024. This platform will allow for the seamless exchange of data across different systems and support the collection and analysis of data to inform public health decisions.
 
@@ -49,7 +50,9 @@ The Interoperability (API) Platform project will deploy an interoperability plat
 #### Relevance to Public Health Association of Canada
 This project satisfies the PHAC objective of promoting a robust public health system by enabling the seamless exchange of data across different systems and supporting the collection and analysis of data to inform public health decisions.
 
-### [PDCP-SEC-001] Identity-Based (Zero-Trust) Security Model
+### Identity-Based (Zero-Trust) Security Model
+ProjectID: [PDCP-SEC-001]
+
 #### Project Description
 The Identity-Based (Zero-Trust) Security Model project aims to implement an identity-based (zero-trust) security model in collaboration with TBS, SSC, and CCCS by Q3 23/24. This model will ensure that access to data is restricted to authorized individuals and that sensitive information is protected against cyber threats. The project will involve the implementation of a security model that adheres to open standards and provides secure access to data across different systems. The project will also involve the establishment of policies and procedures to manage the security model and ensure its ongoing effectiveness.
 
@@ -63,7 +66,9 @@ The Identity-Based (Zero-Trust) Security Model project aims to implement an iden
 This project aligns with the PHAC objective of promoting a robust public health system by ensuring that access to data is restricted to authorized individuals and that sensitive information is protected against cyber threats. The project also supports the PHAC objective of improving the accessibility and timeliness of data, by enabling the secure exchange of data across different systems.
 
 
-### [PDCP-CLOUD-001] PBMM-Ready Cloud Infrastructure for Public Health Intelligence (CIPHI)
+### PBMM-Ready Cloud Infrastructure for Public Health Intelligence (CIPHI)
+ProjectID: [PDCP-CLOUD-001]
+
 #### Project Description
 The PBMM-Ready Cloud Infrastructure for Public Health Intelligence (CIPHI) project aims to deploy an innovative solution based on cloud technologies by Q3 23/24. This solution will provide a scalable, high-performance, and secure cloud infrastructure that adheres to the Protected B Medium Integrity Medium Availability (PBMM) compliance measure, as required by the Government of Canada and crown corporations. The project will involve the deployment of a cloud infrastructure that enables the collection, analysis, and visualization of public health data, and supports the delivery of timely and relevant information to public health practitioners and decision makers.
 
@@ -78,6 +83,8 @@ This project aligns with the PHAC objective of promoting a robust public health 
 
 
 ### [PDCP-ARCH-001] Data Mesh Recommendations
+ProjectID: [PDCP-ARCH-001]
+
 #### Project Description
 The Data Mesh Recommendations project aims to deliver data mesh recommendations for application to a broadly integrated public/private public health data network by Q3 23/24. This project will help to ensure that public health data is collected and analyzed in a consistent, standardized way across different systems and organizations, enabling more effective collaboration and decision making. The project will involve the development of a set of recommendations for implementing a data mesh architecture, which involves breaking down data systems into smaller, autonomous units that can be independently managed and operated.
 
@@ -90,7 +97,9 @@ The Data Mesh Recommendations project aims to deliver data mesh recommendations 
 #### Relevance to Public Health Association of Canada
 This project aligns with the PHAC objective of promoting a robust public health system by enabling more effective collaboration and decision making through the consistent and standardized collection and analysis of public health data. The project also supports the PHAC objective of improving the accessibility and timeliness of data, by ensuring that data is collected and analyzed in a standardized way across different systems and organizations.
 
-### [PDCP-ANALYTICS-001] Production-Ready Data Analytics Capabilities
+### Production-Ready Data Analytics Capabilities
+ProjectID: [PDCP-ANALYTICS-001]
+
 #### Project Description
 The Production-Ready Data Analytics Capabilities project aims to provide PHAC-designed production-ready data analytics capabilities to support public health decision making by Q3 23/24. This project will involve the development of a suite of tools and processes for collecting, analyzing, and visualizing public health data, in order to enable more effective decision making and improve public health outcomes. The project will also involve the establishment of policies and procedures for managing the data analytics capabilities and ensuring their ongoing effectiveness.
 
