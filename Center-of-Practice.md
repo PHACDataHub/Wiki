@@ -19,7 +19,7 @@ The Public Health Data Center of Practice uses cloud computing services to store
 
 [[Initial Project List]]
 
-## Standards, Policies and Templates
+## Standards, Policies, Documents and Templates
 
 ### Standards
 * [[Project ID Naming Standard]]
@@ -37,6 +37,9 @@ The Public Health Data Center of Practice uses cloud computing services to store
 * [[COP Incident Management Policy]]
 * [[COP Compliance Policy]]
 * [[Data Management Policy]]
+
+### Documents 
+* [[COP Business Intake Prep]]
 
 ## Conclusion
 The Public Health Data Center of Practice is a vital resource for public health professionals, data scientists, and technology experts who are committed to improving public health outcomes through the collection, analysis, and sharing of health data. The center of practice provides a secure, scalable, and flexible infrastructure for storing and processing public health data, and is committed to facilitating collaboration and innovation in the public health field.
