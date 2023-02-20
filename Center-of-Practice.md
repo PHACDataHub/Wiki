@@ -21,12 +21,15 @@ The Public Health Data Center of Practice uses cloud computing services to store
 
 ## Standards, Policies and Templates
 
-[[Project ID Naming Standard]]
-
+### Standards
+* [[Project ID Naming Standard]]
 
 ### Templates 
 
-[[Innovation Sandbox MOU]]
+* [[Innovation Sandbox MOU]]
+* [[Department to Department MOU]]
+
+### Policies
 
 
 ## Conclusion
