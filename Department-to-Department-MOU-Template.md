@@ -2,11 +2,11 @@ Memorandum of Understanding (MOU) between Public Health Association of Canada (P
 
 This MOU is entered into by and between the Public Health Association of Canada (PHAC) and [Name of External Group], effective as of [Date].
 
-Purpose
+## Purpose
 
 This MOU sets forth the terms and understanding between PHAC and [Name of External Group] for collaboration and engagement in relation to sharing of templates, documents, policies, and processes to better support public health and public health data projects.
 
-Scope
+## Scope
 
 The scope of this MOU includes, but is not limited to, the following:
 
