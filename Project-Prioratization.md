@@ -28,18 +28,13 @@
 ### Visualization of the priority
 
 ```mermaid
-radarChart
-    title Prioritization Criteria for Public Health Projects
-    series
-        Potential Impact
-        Feasibility of Implementation
-        Cost and Resource Requirements
-        Level of Stakeholder Support
-        Urgency of Need
-    data
-        Potential Impact, 4
-        Feasibility of Implementation, 3
-        Cost and Resource Requirements, 2
-        Level of Stakeholder Support, 4
-        Urgency of Need, 5
+bar
+title Prioritization Criteria for Public Health Projects
+dataFormat json
+"Potential Impact" : 4
+"Feasibility of Implementation" : 3
+"Cost and Resource Requirements" : 2
+"Level of Stakeholder Support" : 4
+"Urgency of Need" : 5
+
 
