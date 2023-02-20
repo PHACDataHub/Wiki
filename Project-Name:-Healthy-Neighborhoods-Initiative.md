@@ -1,4 +1,4 @@
-**_This is an example _**
+_**This is an example project**_
 
 ## Brief Description:
 
