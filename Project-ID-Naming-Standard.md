@@ -1,7 +1,7 @@
 # Public Health Data Center of Practice Unique Project ID System
 
 ## Overview
-The Public Health Data Center of Practice has implemented a unique project ID system to help manage and organize our key projects. This system is based on Google Cloud project tags, which allow us to easily categorize and filter projects based on their purpose, status, and other relevant factors.
+The Public Health Data Center of Practice has implemented a unique project ID system to help manage and organize our key projects. This system is based on a consistent format that allows us to easily categorize and filter projects based on their purpose, status, and other relevant factors.
 
 ## How it Works
 Each project in our key project list is assigned a unique ID that follows a consistent format: PDCP-[CATEGORY]-[SEQUENCE]. Here's what each part of the ID represents:
@@ -16,7 +16,7 @@ Here's an example of a project ID: PDCP-CLOUD-001. This ID indicates that the pr
 Our unique project ID system provides several benefits:
 
 - Consistent format: By following a consistent format for all project IDs, we can easily recognize and categorize projects based on their ID.
-- Easy filtering: Google Cloud project tags allow us to filter projects based on their ID, which can help us quickly find and organize projects based on their category, status, or other relevant factors.
+- Easy filtering: Our project ID system allows us to filter projects based on their ID, which can help us quickly find and organize projects based on their category, status, or other relevant factors.
 - Scalability: By assigning a unique ID to each project, we can easily add new projects to the list and ensure that they are properly categorized and organized.
 
 ## Conclusion
