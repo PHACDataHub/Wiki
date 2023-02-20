@@ -1,16 +1,18 @@
 _**This is an example project**_
 
 
-## Score 
+## Score
+
 ```mermaid
 pie
     title Prioritization Criteria for Public Health Projects
-    "Potential Impact" : 4 
+    "Potential Impact" : 4
     "Feasibility of Implementation" : 3
-    "Cost and Resource Requirements" : 2 
-    "Level of Stakeholder Support" : 4 
-    "Urgency of Need" : 5 
+    "Cost and Resource Requirements" : 2
+    "Level of Stakeholder Support" : 4
+    "Urgency of Need" : 5
 
+```
 
 ## Brief Description:
 
