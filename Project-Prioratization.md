@@ -25,13 +25,6 @@
 
 5. Urgency of the need for the project: This criterion assesses the level of urgency for the project. Factors to consider may include the severity and immediacy of the health issue being addressed, the potential for the issue to worsen over time, and the availability of alternative interventions.
 
-### Visualization example of the a projects priority
+### Example of the a prioritized project boilerplate 
 
-```mermaid
-pie
-    title Prioritization Criteria for Public Health Projects
-    "Potential Impact" : 4
-    "Feasibility of Implementation" : 3
-    "Cost and Resource Requirements" : 2
-    "Level of Stakeholder Support" : 4
-    "Urgency of Need" : 5
+[[Project Name: Healthy Neighborhoods Initiative]]
