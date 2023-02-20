@@ -25,7 +25,7 @@
 
 5. Urgency of the need for the project: This criterion assesses the level of urgency for the project. Factors to consider may include the severity and immediacy of the health issue being addressed, the potential for the issue to worsen over time, and the availability of alternative interventions.
 
-### Visualization of the priority
+### Visualization example of the a projects priority
 
 ```mermaid
 pie
