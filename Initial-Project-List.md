@@ -50,7 +50,7 @@ The Interoperability (API) Platform project will deploy an interoperability plat
 #### Relevance to Public Health Association of Canada
 This project satisfies the PHAC objective of promoting a robust public health system by enabling the seamless exchange of data across different systems and supporting the collection and analysis of data to inform public health decisions.
 
-### Identity-Based (Zero-Trust) Security Model
+### [Zero Trust Architecture Implementation Initiative]([PDCP-SEC-001] Zero Trust Architecture Implementation)
 ProjectID: [PDCP-SEC-001]
 
 #### Project Description
