@@ -14,6 +14,8 @@ This policy defines the process for dealing with security incidents and events i
 
 **Vulnerability**: A factor that could increase susceptibility to compromise.
 
+![image](https://user-images.githubusercontent.com/367922/220195431-cba499c4-7676-4dc4-bbff-26743ec9cde5.png)
+
 ## Policy
 
 The PDCP Innovation Sandbox Incident Management Policy is designed to encourage secure and responsible innovation while ensuring that the confidentiality, integrity, and availability of PDCP data and information are maintained. The PDCP acknowledges the importance of timely and effective response to security incidents and events.
