@@ -1,4 +1,4 @@
-### Steps for Developing a Prioritization Rubric
+### Steps for Project Prioritization Rubric
 
 1. Define the criteria for prioritization: First, you need to define the criteria that you will use to assess each project. These criteria should be based on your agency's goals and objectives, as well as the specific needs of each project. For example, you may want to consider factors like the project's potential impact on public health, the feasibility of implementation, the cost and resource requirements, the level of stakeholder support, and the urgency of the need for the project.
 
