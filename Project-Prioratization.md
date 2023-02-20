@@ -28,13 +28,8 @@
 ### Visualization of the priority
 
 ```mermaid
-bar
-title Prioritization Criteria for Public Health Projects
-dataFormat json
-"Potential Impact" : 4
-"Feasibility of Implementation" : 3
-"Cost and Resource Requirements" : 2
-"Level of Stakeholder Support" : 4
-"Urgency of Need" : 5
-
+bar chart
+    title Prioritization Criteria for Public Health Projects
+    dataFormat json
+    data {"Potential Impact":4, "Feasibility of Implementation":3, "Cost and Resource Requirements":2, "Level of Stakeholder Support":4, "Urgency of Need":5}
 
