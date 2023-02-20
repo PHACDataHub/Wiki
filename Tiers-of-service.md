@@ -21,5 +21,7 @@ The Platinum Tier is the highest tier of the Public Health Data Center of Practi
 - Access to advanced cloud computing resources for storing and analyzing health data
 - On-site technical support and training
 
+[[Tier RACI]]
+
 ## Conclusion
 The Public Health Data Center of Practice Technical Services model provides public health professionals, data scientists, and technology experts with the technical support they need to effectively collect, analyze, and share health data. By using the Copper, Titanium, and Platinum Tiers, the model provides a clear path for users to access the level of support they need based on their level of experience and expertise. The model can be customized to meet the needs of individual users and organizations, and can be adapted to accommodate new technologies and advances in the field of public health.
