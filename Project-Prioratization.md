@@ -24,3 +24,22 @@
 4. Level of stakeholder support: This criterion assesses the level of support for the project among key stakeholders, such as community leaders, healthcare providers, and policymakers. Factors to consider may include the level of involvement of stakeholders in the project planning process, the degree of agreement on project goals, and the potential for collaboration and partnerships.
 
 5. Urgency of the need for the project: This criterion assesses the level of urgency for the project. Factors to consider may include the severity and immediacy of the health issue being addressed, the potential for the issue to worsen over time, and the availability of alternative interventions.
+
+### Visualization of the priority
+
+```mermaid
+radarChart
+    title Prioritization Criteria for Public Health Projects
+    series
+        Potential Impact
+        Feasibility of Implementation
+        Cost and Resource Requirements
+        Level of Stakeholder Support
+        Urgency of Need
+    data
+        Potential Impact, 4
+        Feasibility of Implementation, 3
+        Cost and Resource Requirements, 2
+        Level of Stakeholder Support, 4
+        Urgency of Need, 5
+
