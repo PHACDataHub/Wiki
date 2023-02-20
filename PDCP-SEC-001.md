@@ -1,4 +1,5 @@
-# Project [PDCP-SEC-001]
+# Project Zero Trust Architecture Implementation Initiative
+ProjectID: PDCP-SEC-001
 
 ## Overview
 
@@ -60,6 +61,21 @@ Google Cloud Platform (GCP) provides a range of services and features that align
 - Identify areas for improvement and add them to the backlog
 - Plan and execute iterations to improve the zero trust architecture
 - Continuously monitor and evaluate the effectiveness of the security controls and adjust as necessary
+
+```mermaid
+graph TD
+    Sprint0(Sprint 0) --> Sprint1(Sprint 1)
+    Sprint0(Sprint 0) --> Sprint2(Sprint 2)
+    Sprint1(Sprint 1) --> Sprint3(Sprint 3)
+    Sprint1(Sprint 1) --> Sprint4(Sprint 4)
+    Sprint2(Sprint 2) --> Sprint3(Sprint 3)
+    Sprint2(Sprint 2) --> Sprint4(Sprint 4)
+
+```
+
+
+This diagram shows Sprint 0 at the top, which branches out into Sp
+
 
 ## Challenges
 
