@@ -16,6 +16,7 @@ The Public Health Data Center of Practice uses cloud computing services to store
     Data processing and analysis services to support public health research and analysis
 
 [[Primary Tiers of Service]]
+
 [[Service Catalog]]
 
 ## Conclusion
