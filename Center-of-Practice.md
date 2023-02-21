@@ -13,11 +13,13 @@ The Public Health Data Center of Practice uses cloud computing services to store
 - Cloud storage for secure, scalable storage of health data
 - Data processing and analysis services to support public health research and analysis
 
-[[Tiers of service]]
+* [[Tiers of service]]
 
-[[Catalog of Technical Services]]
+* [[Catalog of Technical Services]]
 
-[[Initial Project List]]
+* [[Initial Project List]]
+
+* [[ Cloud Intake Process ]]
 
 ## Standards, Policies, Documents and Templates
 
