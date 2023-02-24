@@ -7,7 +7,12 @@ The Public Health Data Center of Practice has implemented a unique project ID sy
 Each project in our key project list is assigned a unique ID that follows a consistent format: PDCP-[CATEGORY]-[SEQUENCE]. Here's what each part of the ID represents:
 
 - PDCP: This stands for Public Health Data Center of Practice and is included in all project IDs to clearly identify them as part of our organization.
-- CATEGORY: This represents the category of the project and helps us group related projects together. For example, the category might be GOV for projects related to governance, CLOUD for projects related to cloud computing, or DATA for projects related to data management.
+- CATEGORY: This represents the category of the project and helps us group related projects together. For example, the category might be 
+
+> * GOV for projects related to governance
+> * CLOUD for general projects related to cloud computing
+> * DATA for projects related to data management.
+> * SERV for projects related to supporting services.
 - SEQUENCE: This is a unique identifier for the project within its category. It is assigned sequentially as new projects are added to the list.
 
 Here's an example of a project ID: PDCP-CLOUD-001. This ID indicates that the project is related to cloud computing and is the first project in that category.
