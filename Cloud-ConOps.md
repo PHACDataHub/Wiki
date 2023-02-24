@@ -10,7 +10,7 @@ To access the PDCP cloud environment, users must first have a PDCP account. To o
 The PDCP cloud environment is designed to be secure and compliant with all relevant data privacy and security regulations. To maintain the security of the environment, PDCP has established a set of security policies and procedures that all users must follow. This includes guidelines around password management, data classification, and access controls. 
 
 ## Cloud Resources
-PDCP provides a variety of cloud resources for users to use, including virtual machines, storage, and databases. To ensure that these resources are used effectively and efficiently, PDCP has established a set of resource management policies and procedures. This includes guidelines around resource allocation, usage monitoring, and optimization.
+PDCP provides a variety of cloud resources for users to use, including virtual machines, storage, and databases. To ensure that these resources are used effectively and efficiently, PDCP has established a set of resource management policies and procedures. This includes guidelines around resource allocation, usage monitoring, and optimization. Some of these documents do not exist bet, but we are working to generate them. Expect these things to change. Please use the environment with a change happening often mindset.
 
 ## Cloud Billing
 PDCP bills users based on their usage of cloud resources. To ensure that users are aware of their cloud spend and can manage their budgets effectively, PDCP has established a set of billing policies and procedures. This includes guidelines around cost tracking, budget management, and cost optimization.
