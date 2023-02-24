@@ -12,7 +12,7 @@ Before we get started, we wanted to outline the terms and conditions for using t
 - Please note that the only backup and recovery services available are the ones you implement yourself.
 - Clients can be removed or services stopped at any time.
 - Please do not break any rules or policies, legal or GC related.
-- Virtual machines will automatically be shut down after hours to save money.
+- Virtual machines should automatically be shut down after hours to save money.
 
 Please be aware of the following as you develop your innovation:
 
