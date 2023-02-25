@@ -2,6 +2,7 @@
 
 |Term|Definition|
 |----|----|
+|CIPHI|Cloud Infrastructure for Public Health Intelligence|
 |GPHIN|Global Public Health Intelligence Network|
 |DTB|Digital Transformation Branch -  Health Canada IT|
 |ICAM|Identity, Credential, and Access Management (ICAM) is a set of security tools, policies, and systems that helps organizations manage, monitor, and secure access to their information technology (IT) infrastructure.|
