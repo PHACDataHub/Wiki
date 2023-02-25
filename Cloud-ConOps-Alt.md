@@ -26,19 +26,25 @@
 ### Overview of the cloud provider's infrastructure
 > See above?
 ### Overview of the cloud provider's security features
-> See above?  Michael may have a series of links that may save us time to get this section ficured out.
+> See above?  Michael may have a series of links that may save us time to get this section figured out.
 ### Overview of the cloud provider's availability features
 > Ask Michael about this one as well??????
 
 ## III. Cloud Services
-### Description of the cloud services being used
+> :question: The context of this whole section might need to be re-thought?
 > 
+> Should this be from the GCP perspective?  I suppose we should document certain aspects of GCP, but if CCCS has already vetted them, then how deep do we need to go into describing the vendor for our ConOps?
+### Description of the cloud services being used
+> :question: Can we even tailor this?  GCP has so many services... can we identify upfront beyond a few core services? i.e. GKE??
+
+> :exclamation: Something like Istio isn't really a service offering (is it? @Michael's input here?), but will be needed to meet security controls in some scenarios.
 ### Overview of the cloud provider's service level agreements (SLAs)
-x
+> See above.  We should link to GCP SLAs if appropriate, but we should also decide what SLAs we will have for our own PHAC clients.
+> :question: Should this be a link to a separate SLA document?  My answer is yes.
 ### Overview of the cloud provider's support services
-x
+> :question:  Overview here, link to expansive document here?
 ### Overview of the cloud provider's billing services
-x
+> :question: This is a good one. I am in the camp that eventually the business entity that "owns" a GCP project should get their own billing ID and become directly responsible for their burn-rate.  I am not sure this is a view shared by everyone.
 
 ## IV. Cloud Operations Team
 ### Description of the cloud operations team
