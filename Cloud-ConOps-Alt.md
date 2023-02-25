@@ -91,6 +91,9 @@
 > :question: Should we add "-prd" to intakes where only one project is created?
 >
 > :question: Will we have a "sandbox" (or any other environment) that doesn't fit with what I have outlined above?
+
+
+
 ##### Automation of GCP project creation (simple)
 - Client visits a self-serve portal and selects from a form-based "menu" of options.
 - There is some metadata required in this process.
@@ -98,6 +101,10 @@
     - **Client Contact (business)**. Required. Email address?
     - **Short name**. Helpful for human readability.
     - :exclamation: **NOTE**: I can imagine we may use the form to identify what working group the user is part of.  If the simple process begins to get abused, then this data may be used to send an email to a manager asking for a quick yes/no to the user being able to spin up processing resources.  This will not be the default out of the gate.
+> :exclamation: John already started a reference for possible metadata terms (he is referencing them as tags). Do we keep them external, or add them to the ConOps??
+
+[[Cloud-Tagging-Standard]]
+
 - Once form is submitted an automated process kicks off to create the folder and project.
 
 ```mermaid
@@ -119,6 +126,10 @@ D --> E((PA-A00001-ShortName))
     - **Client Contact (technical)**. Required. Email address??
     - **Client Contact (business)**. Required. Email address?
     - How many project spaces required?  This is a reflection that a trunk-based development approach would/should only need one environment.  However, some project styles might prefer a more traditional dev/test/prod setup.  This answer will directly affect the outputs of the automation.
+> :exclamation: John already started a reference for possible metadata terms (he is referencing them as tags). Do we keep them external, or add them to the ConOps??
+
+[[Cloud-Tagging-Standard]]
+
 - An automation process kicks off that: 
     - creates a folder under the PHAC folder based on our naming standard.
     - Once the folder is created the process will then create one or more GCP projects in that folder. **Metadata is assigned at the project level**.  Each project will have metadata attached that represents the Business intake ID, Billing ID, Client-contact-technical, and client-contact-business.
