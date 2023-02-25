@@ -150,6 +150,12 @@ F --> I((PA-B00002-prd-another-proj))
 ## VI. Cloud Operations Tools
 ### Description of the cloud operations tools
 > We need to get a clearer implemenation/realization of our actual operations infrastructure to really move this forward.
+
+> :question: Is this where I put my grand infra design?
+- Store all YAML for folder/project creation in a Cloud Source repository.  This allows us to not leak things like billing ID into a GitHub repo.  
+- This repo is used to generate the initial empty projects and assign user accounts IAM roles against the project.
+- once this exists, the users can use whatever repo they want to host.
+- if they ask for some of our templates to be used for making PBMM easier to achieve, then by what mechanism do we give them the YAML ouputs. Do we generate the infa in their project?  Do we generate the YAML and let them use those to create the infra?
 ### Monitoring and alerting tools
 > This can be sliced multiple ways - billing, security (what else?).
 ### Log management and analysis tools
