@@ -79,7 +79,7 @@
 - **_possible_** naming standard: PA-(A|B)#####-text
     - ex. PA-A00001-safe-inputs, PA-B00001-safe-inputs
     - PA is derived from first letters of PHAC-ASPC
-    - A00001 is a unique identifier from DST intake. 
+    - A00001 is a unique identifier. 
         - A shows the folder/project came via the simple (automated) intake.
         - B shows it came from the longer business intake process via DST
     - "safe-inputs" is a label that can be added to give quick context for a human reader.  This is probably optional????
