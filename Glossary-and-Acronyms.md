@@ -21,3 +21,4 @@
 |Public Cloud|The public cloud is defined as computing services offered by third-party providers over the public Internet, making them available to anyone who wants to use or purchase them.|
 |IaC|Infrastructure as Code|
 |IaD|Infrastructure as Data|
+|IRBV|Information Resource of Business Value|
