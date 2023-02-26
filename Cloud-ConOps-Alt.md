@@ -14,14 +14,29 @@
 
 ## I. Introduction
 ### Purpose of the document
+> :warning: **START ChatGPT generated paragraph**
+>
+> The purpose of this Concept of Operations document is to provide a comprehensive overview of the cloud operations processes and procedures for managing and maintaining a cloud-based infrastructure. This document serves as a guide for the cloud operations team and outlines the roles and responsibilities of the team, the processes for managing incidents, changes, capacity planning, and disaster recovery and business continuity. In addition, this document provides information on the cloud services being used, the cloud provider's infrastructure, security features, availability features, and service level agreements. This document is intended to ensure that the cloud infrastructure is managed efficiently and effectively, and that the necessary measures are in place to maintain the security, availability, and reliability of the cloud environment.
+>
+> :warning: **END ChatGPT generated paragraph**
+
 > :question: **Scoping of this should be restricted to GCP?**
 >
 > If we incorporate multiple CSPs it could get very messy.  There should be commonality of topics, but implementation and coverage can be different based on vendor stacks/services.
 ### Scope of the document
-> See above block.  This all ties together.
+> :warning: **START ChatGPT generated paragraph**
+>
+> The scope of this Concept of Operations document covers the management and maintenance of a cloud-based infrastructure, specifically focused on the operations team responsible for managing the cloud environment. This document outlines the processes, procedures, tools, and security controls that are necessary to maintain the reliability, availability, and security of the cloud infrastructure. The document covers the cloud services being used, the cloud provider's infrastructure, security features, availability features, and service level agreements. It also outlines the roles and responsibilities of the cloud operations team, including their communication channels and escalation procedures. This document is intended for use by the cloud operations team, as well as other stakeholders who need to understand the processes and procedures for managing and maintaining the cloud infrastructure.
+> 
+> :warning: **END ChatGPT generated paragraph**
 ### Overview of cloud operations
 > :exclamation: I am struggling a bit to get a proper perspective on this header.
 
+> :warning: **START ChatGPT generated paragraph**
+> 
+> Cloud operations refer to the processes and procedures involved in managing and maintaining a cloud-based infrastructure. This includes managing the cloud services being used, monitoring the infrastructure, maintaining security and compliance, and ensuring the availability and reliability of the cloud environment. Cloud operations also involve managing incidents and changes, capacity planning, and disaster recovery and business continuity planning. In addition, cloud operations require a team of experts with the necessary skills and tools to manage and maintain the cloud infrastructure effectively. Overall, cloud operations play a critical role in ensuring that the cloud infrastructure is reliable, secure, and available to support the organization's business operations.
+> 
+> :warning: **END ChatGPT generated paragraph**
 ## II. Cloud Infrastructure
 ### Description of the cloud infrastructure
 > :exclamation: We can likely pull some summary infor from GCP itself and then add reference links to appropriate official documentation instead of regurgitating a bunch of it here and having to unneeded maintenance to keep it aligned with the official description...
@@ -52,7 +67,13 @@
 ## IV. Cloud Operations Team
 ### Description of the cloud operations team
 > :question: Should this be focussed on cloud infra?  I.e. John and Keith (at the moment??)  If yes, where do we document the overall team and its interfacing points?
-> :question: Given the above question, does each sub-team in DE/DSCO/CIPHI (pick and acronym please!) have a sort-of conops?  Dev conops, business/BA conops and they are linked by an larger document?  How far down a rabbit-hole do we want to go?
+
+> :warning: **START ChatGPT generated paragraph**
+>
+>The cloud operations team is responsible for managing and maintaining the cloud infrastructure and ensuring that the cloud services are available, secure, and reliable. The team consists of experts with specialized skills in cloud operations, such as system administrators, network engineers, security analysts, and developers. The team works closely with other stakeholders, such as application developers, IT operations, and business owners, to ensure that the cloud services are meeting the needs of the organization. The cloud operations team is responsible for monitoring the cloud infrastructure, managing incidents and changes, capacity planning, and disaster recovery and business continuity planning. The team communicates with other stakeholders through various channels, such as email, phone, chat, and collaboration tools, and has established escalation procedures to ensure that issues are resolved in a timely and effective manner. Overall, the cloud operations team plays a critical role in ensuring that the cloud environment is managed efficiently and effectively to support the organization's business operations.
+>
+> :warning: **END ChatGPT generated paragraph**
+
 ### Roles and responsibilities of the cloud operations team
 > The answer to this can/will be driven by the above questions.
 > 
@@ -68,6 +89,12 @@
 
 ## V. Cloud Operations Processes
 ### Overview of the cloud operations processes
+> Processes to consider
+> - onboarding - for the purpose of this document, our concern is the technical onboarding, not the business level.
+> - ALM (do we interface to this in a significant way?) If an app (GCP Project) is lifecycled, what role do we play in cleaning up resources.  Are we simply deleting the Folder and all its contents?
+> - support 
+> - escalation
+> 
 > Initial guesswork processes have been drawn up for the technical side.  They are not final by any means.
 >
 > :exclamation: @TODO Keith: add diagrams into the wiki repo and link them here. Add numbers to each box in the diagram to allow linking of a box in the diagram to notes here where appropriate.
