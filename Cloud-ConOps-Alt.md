@@ -39,7 +39,7 @@
 > :warning: **END ChatGPT generated paragraph**
 ## II. Cloud Infrastructure
 ### Description of the cloud infrastructure
-> :exclamation: We can likely pull some summary info from GCP itself and then add reference links to appropriate official documentation instead of regurgitating a bunch of it here and having to unneeded maintenance to keep it aligned with the official description...
+> :exclamation: We can likely pull some summary info from GCP itself and then add reference links to appropriate official documentation instead of regurgitating a bunch of it here and having to do unneeded maintenance to keep it aligned with the official description...
 ### Overview of the cloud provider's infrastructure
 > See above?
 ### Overview of the cloud provider's security features
@@ -51,6 +51,8 @@
 > :question: The context of this whole section might need to be re-thought?
 > 
 > Should this be from the GCP perspective?  I suppose we should document certain aspects of GCP, but if CCCS has already vetted them, then how deep do we need to go into describing the vendor for our ConOps?
+
+> :warning: **Is this where we put our service offerings?? i.e. "To help you (the client) woth achiveing PBMM we have templates that can satisfy certain controls..", Our simple path templates for limited data processing, etc.**
 ### Description of the cloud services being used
 > :question: Can we even tailor this?  GCP has so many services... can we identify upfront beyond a few core services? i.e. GKE??
 
@@ -118,8 +120,6 @@
 > :question: Should we add "-prd" to intakes where only one project is created?
 >
 > :question: Will we have a "sandbox" (or any other environment) that doesn't fit with what I have outlined above?
-
-
 
 ##### Automation of GCP project creation (simple)
 - Client visits a self-serve portal and selects from a form-based "menu" of options.
