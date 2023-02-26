@@ -39,7 +39,7 @@
 > :warning: **END ChatGPT generated paragraph**
 ## II. Cloud Infrastructure
 ### Description of the cloud infrastructure
-> :exclamation: We can likely pull some summary infor from GCP itself and then add reference links to appropriate official documentation instead of regurgitating a bunch of it here and having to unneeded maintenance to keep it aligned with the official description...
+> :exclamation: We can likely pull some summary info from GCP itself and then add reference links to appropriate official documentation instead of regurgitating a bunch of it here and having to unneeded maintenance to keep it aligned with the official description...
 ### Overview of the cloud provider's infrastructure
 > See above?
 ### Overview of the cloud provider's security features
