@@ -11,6 +11,7 @@
 
 > :question: **I would welcome any thoughts and suggestions as to how we should (if at all - and I think it is likely) partition sections of this document as things relate to UCLL and PBMM.**
 
+> :warning: **Ideas about where we should partition out things into their own documents (or not?) would be valuable.**  For example, required tags - should these be directly in a ConOps document or split out (John has a separate document on tagging).  Processes we have in operations - should we just list the processes and have links to other documents that document each process (probably?)?
 
 ## I. Introduction
 ### Purpose of the document
