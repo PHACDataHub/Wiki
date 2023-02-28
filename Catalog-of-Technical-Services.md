@@ -1,4 +1,4 @@
 Catalog
 
 
-[[Innovation Sandbox Offering]]
+[[Experimentation Offering]]
