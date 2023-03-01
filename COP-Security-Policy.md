@@ -6,6 +6,8 @@ The Public Health Data Center of Practice (PDCP) takes security seriously, but w
 
 At the PDCP, we believe that security is everyone's responsibility. While we have security measures in place to keep our cloud resources secure, we also need your help to ensure that our cloud is secure. That means being aware of security best practices and making sure that you're following them when you use our cloud resources.
 
+Security [[COP-Incident-Management-Policy]]
+
 ## Aligning with Government of Canada IT Security Standards
 
 We take the security of our cloud resources seriously, and we want to ensure that we're always in compliance with the Government of Canada IT security standards. That means that our cloud resources will always be configured and maintained to align with these standards. We will also work with you to ensure that any cloud resources you use are also in compliance with these standards.
