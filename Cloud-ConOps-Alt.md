@@ -120,8 +120,10 @@ _john notes, lets use PH instead of PA_
         - PA-B00001-tst-safe-inputs (test could be used - we just have to agree to our standard)
         - PA-B00001-prd-safe-inputs (prod could be used - we just have to agree to our standard)
         - The multi GCP project scenario should only be possible in the complex intake process as it is envisioned right now.
-_ John lets pullout the unused 0000_
-_ John lets do DTPX(dev test prod other)_
+
+_John lets pullout the unused 0000_
+
+_John lets do DTPX(dev test prod other)_
 > :question: Should we add "-prd" to intakes where only one project is created?
 
 >
