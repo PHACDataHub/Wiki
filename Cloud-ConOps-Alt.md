@@ -105,6 +105,8 @@
 
 #### Technical Intake
 
+_john notes, lets use PH instead of PA_
+
 ##### Notes on suggested naming convention:
 - **_possible_** naming standard: PA-(A|B)#####-text
     - ex. PA-A00001-safe-inputs, PA-B00001-safe-inputs
@@ -118,9 +120,13 @@
         - PA-B00001-tst-safe-inputs (test could be used - we just have to agree to our standard)
         - PA-B00001-prd-safe-inputs (prod could be used - we just have to agree to our standard)
         - The multi GCP project scenario should only be possible in the complex intake process as it is envisioned right now.
+_ John lets pullout the unused 0000_
+_ John lets do DTPX(dev test prod other)_
 > :question: Should we add "-prd" to intakes where only one project is created?
+
 >
 > :question: Will we have a "sandbox" (or any other environment) that doesn't fit with what I have outlined above?
+_John: IMO we will just have the 3 environments experiment, unclassed  and proB_
 
 ##### Automation of GCP project creation (simple)
 - Client visits a self-serve portal and selects from a form-based "menu" of options.
