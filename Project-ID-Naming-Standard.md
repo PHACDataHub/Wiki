@@ -6,6 +6,7 @@ The Public Health Data Center of Practice has implemented a unique project ID sy
 ## How it Works
 Rules:
  * all lower case
+ * no dashes in the name of the project
  * expressed as pseudo-regex:
 	* ph(d|t|p|x|o)-(a|b|s|i)-#-nametextnospaces
 	* ph = public health
