@@ -21,7 +21,7 @@ Rules:
 		 * b = more complex via DST board
 		 * s = internal services
 		 * i = internal project
-		 * \# = incrementing number with no padding (i.e. '1' not '0001')
+	* \# = incrementing number with no padding (i.e. '1' not '0001')
  * examples:
 	 * folder: ph-s-3-fldrprojectconf 
 		 * project: pho-s-3-fldrprojectconf
@@ -31,6 +31,7 @@ Rules:
 		 * project: php-b-1234-diseaseprofiler 
 	 * folder: ph-b-223-vaccinestudy project:    
 		 * pho-b-223-vaccinestudy
+
 
 When project names are too long, abbreviate the name of the project down to its initials, example 'php-b-1234-diseaseprofiler' to 'php-b-1234-dp'
 
