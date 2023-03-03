@@ -31,6 +31,8 @@ Rules:
 	 * folder: ph-b-223-vaccinestudy project:    
 		 * pho-b-223-vaccinestudy
 
+When project names are too long, abbreviate the name of the project down to its initials, example 'php-b-1234-diseaseprofiler' to 'php-b-1234-dp'
+
 Project names have a 30-character limit which may mean truncation of the right side if the name is too long. Additional values will be added via metadata (business contact, technical contact, business intake id, etc.)
 
 ## Benefits
