@@ -8,7 +8,7 @@ Rules:
  * all lower case
  * no dashes in the name of the project
  * expressed as pseudo-regex:
-	* ph(d|t|p|x|o)-(a|b|s|i)-#-nametextnospaces
+	* ph(d|t|p|x|o)-nametextnospaces
 	* ph = public health
 	* (d|t|p|x|o) THIS IS ONLY REQUIRED AT PROJECT LEVEL; DEFAULT TO ‘O’ IF ONLY 1 ENV
 		 * d = dev
@@ -16,24 +16,18 @@ Rules:
 		* p = prod
 		* x = experimental
 		* o = other
-	* (a|b|s|i)
-		 * a = automated intake (simplest)
-		 * b = more complex via DST board
-		 * s = internal services
-		 * i = internal project
-	* \# = incrementing number with no padding (i.e. '1' not '0001')
  * examples:
-	 * folder: ph-s-3-fldrprojectconf 
-		 * project: pho-s-3-fldrprojectconf
-	 * folder: ph-b-1234-diseaseprofiler 
-		 * project: phd-b-1234-diseaseprofiler
-		 * project: pht-b-1234-diseaseprofiler 
-		 * project: php-b-1234-diseaseprofiler 
-	 * folder: ph-b-223-vaccinestudy project:    
-		 * pho-b-223-vaccinestudy
+	 * folder: ph-fldrprojectconf 
+		 * project: pho-fldrprojectconf
+	 * folder: ph-diseaseprofiler 
+		 * project: phd-diseaseprofiler
+		 * project: pht-diseaseprofiler 
+		 * project: php-diseaseprofiler 
+	 * folder: ph-vaccinestudy project:    
+		 * pho-vaccinestudy
 
 
-When project names are too long, abbreviate the name of the project down to its initials, example 'php-b-1234-diseaseprofiler' to 'php-b-1234-dp'
+When project names are too long, abbreviate the name of the project down to its initials, example 'php-diseaseprofiler' to 'php-dp'
 
 Project names have a 30-character limit which may mean truncation of the right side if the name is too long. Additional values will be added via metadata (business contact, technical contact, business intake id, etc.)
 
