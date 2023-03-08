@@ -9,4 +9,3 @@
   * Cloud marketplace disabled
 * Users are able to create projects at the root of the org, this is default behavior 
   * https://serverfault.com/questions/882599/how-to-prevent-a-user-from-creating-gcp-project
-*
