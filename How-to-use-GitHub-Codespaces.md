@@ -16,23 +16,23 @@ A stable and reliable internet connection is also required at all times as this 
 
 ## Getting Started
 
-1. Head to the repository you wish to work on.
+### 1. Head to the repository you wish to work on.
 
 ![image](https://user-images.githubusercontent.com/63279480/224123220-f54db385-e2de-4396-9a0a-fd3da5758df1.png)
 
-2. Once you are on the page of the repository, look for the blue button labeled '<> Code'
+### 2. Once you are on the page of the repository, look for the blue button labeled '<> Code'
 
 ![image](https://user-images.githubusercontent.com/63279480/224127538-45556f9a-2344-4b79-8c0e-11c6b670bc89.png)
 
-3. Click on the prompt to Create Codespace on main (here it is referring to the branch that you are on)
+### 3. Click on the prompt to Create Codespace on main (here it is referring to the branch that you are on)
 
 ![image](https://user-images.githubusercontent.com/63279480/224127840-f712d18e-8e87-4e21-9640-1341a7fb3193.png)
 
-4. You will then find yourself in a browser version of VSCode.
+### 4. You will then find yourself in a browser version of VSCode.
 
 ![image](https://user-images.githubusercontent.com/63279480/224128066-7d00d0c7-f23a-45e2-9073-7216c15cb626.png)
 
-5. At this point you may use the terminal to 'npm install' your packages and run your application or edit the codebase in the explorer.
+### 5. At this point you may use the terminal to 'npm install' your packages and run your application or edit the codebase in the explorer.
 
 ## Configuration
 
