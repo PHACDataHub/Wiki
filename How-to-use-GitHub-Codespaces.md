@@ -1,3 +1,5 @@
+# GitHub Codespaces
+
 ## What is GitHub Codespaces? 
 
 GitHub Codespaces is a cloud-based development environment that allows developers to write, run, and debug code entirely within their web browser. Essentially, it enables developers to create and customize a development environment that is hosted entirely on GitHub.
@@ -38,6 +40,8 @@ A stable and reliable internet connection is also required at all times as this 
 
 You may configure preferences to your liking by accessing the [settings](https://github.com/settings/codespaces). In this section, you can set timeout limits for your codespace which can help save you usage hours while not actively working on your codespace. You can also choose a different web editor instead of VSCode.
 
-## Disclaimer
+## Groups using Codespaces
 
-This wiki is a work in progress and may be edited in the near future.
+ - [Canadian Digital Services(CDS)](https://github.com/cds-snc/notification-api)  
+ - [Public Health Agency Canada(PHAC)](https://github.com/PHACDataHub/safe-inputs/tree/devcontainer_network)
+
