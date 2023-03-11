@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This document outlines the tagging standard that will be used to set meta data information associated with cloud projects in the Public Health Data Center of Excellence (PDCP). The tagging standard consists of mandatory and optional tags that must be filled out when creating a new subscription. The standard is designed to provide important information about the subscription, including the client organization, technical contacts, environment, data sensitivity, cloud usage profile, project name, and cost center.
+This document outlines the label standard that will be used to set meta data information associated with cloud projects in the Public Health Data Center of Excellence (PDCP). The tagging standard consists of tags that must be filled out when creating a new project. The standard is designed to provide important information about the project, including the client organization, technical contacts, environment, data sensitivity, cloud usage profile, and project name.
 
 ## Mandatory and Optional Tags
 
@@ -10,17 +10,17 @@ The tagging standard consists of mandatory and optional tags that must be filled
 
 | Tag Key           | Description                                                   | Examples        |
 |-------------------|---------------------------------------------------------------|----------------|
-| ClientOrganization| The department who is responsible for the subscription        | PHAC            |
-| ProjectEmail      | The individual who is paying for the subscription             | johnsmith@canada.ca |
-| TechnicalEmail    | The main technical contact(s) for the subscription             | jane.doe@canada.ca |
-| Environment       | The type of environment                                        | sandbox, dev, test, QA, prod |
-| DataSensitivity   | The highest data classification of the workloads in the subscription | Unclassified, Protected A, Protected B |
-| CloudUsageProfile | The cloud usage profile for the workload                       | Profile 1, Profile 2, Profile 3, Profile 4, Profile 5 |
-| ProjectName       | The name for the main workload or project in the subscription | Core Network |
-| CostCenter        | (optional) The cost center used for charge back on the subscription costs | 555555 |
+| clientorg         | The department who is responsible for the subscription        | PHAC            |
+| projectlead       | The individual who is paying for the subscription             | john__dot__bain__at__phac-aspc__dot__gc__dot__ca |
+| techlead          | The main technical contact(s) for the subscription             | john__dot__bain__at__phac-aspc__dot__gc__dot__ca |
+| env               | The type of environment                                        | sandbox, dev, test, QA, prod |
+| datasensitivity   | The highest data classification of the workloads in the subscription | unclass, proa, prob |
+| cloudprofile      | The cloud usage profile for the workload                       | 1, 2, 3 |
+| projectname       | The name for the main workload or project in the subscription | zero_sugar_zero_caffeine |
 
-
+## Limitations
+_ Only hyphens (-), underscores (_), lowercase characters, and numbers are allowed. International characters are allowed. _
 
 ## Conclusion
 
-The tagging standard outlined in this document is designed to ensure that all subscriptions managed by the PDCP contain important information about the client organization, technical contacts, environment, data sensitivity, cloud usage profile, project name, and cost center. By following this tagging standard,
+The label standard outlined in this document is designed to ensure that all projects managed by the PDCP contain important information about the client organization, technical contacts, environment, data sensitivity, cloud usage profile, and project name.
