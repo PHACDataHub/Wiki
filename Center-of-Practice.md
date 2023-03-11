@@ -27,7 +27,7 @@ The Public Health Data Center of Practice uses cloud computing services to store
 
 ### Standards
 * [[Project ID Naming Standard]]
-* [[Cloud Tagging Standard]]
+* [[Cloud-Label-Standard]]
 * [[PDCP DevSecOps Standard]]
 * [[Cloud ConOps]]
 
