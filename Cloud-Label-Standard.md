@@ -13,7 +13,7 @@ The tagging standard consists of mandatory and optional tags that must be filled
 | clientorg         | The department who is responsible for the subscription        | PHAC            |
 | projectlead       | The individual who is paying for the subscription             | john__dot__bain__at__phac-aspc__dot__gc__dot__ca |
 | techlead          | The main technical contact(s) for the subscription             | john__dot__bain__at__phac-aspc__dot__gc__dot__ca |
-| env               | The type of environment                                        | sandbox, dev, test, QA, prod |
+| env               | The type of environment                                        | experiment, sandbox, dev, test, qa, prod |
 | datasensitivity   | The highest data classification of the workloads in the subscription | unclass, proa, prob |
 | cloudprofile      | The cloud usage profile for the workload                       | 1, 2, 3 |
 | projectname       | The name for the main workload or project in the subscription | zero_sugar_zero_caffeine |
