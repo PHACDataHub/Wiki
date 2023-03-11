@@ -19,7 +19,7 @@ The tagging standard consists of mandatory and optional tags that must be filled
 | projectname       | The name for the main workload or project in the subscription | zero_sugar_zero_caffeine |
 
 ## Limitations
-_ Only hyphens (-), underscores (_), lowercase characters, and numbers are allowed. International characters are allowed. _
+*Only hyphens (-), underscores (_), lowercase characters, and numbers are allowed. International characters are allowed.*
 
 ## Conclusion
 
