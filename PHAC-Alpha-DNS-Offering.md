@@ -39,14 +39,14 @@ To get started with the Alpha DNS Service, please contact the Public Health Data
 
 ## Success Stories
 
-- A public health website prototype was experiencing slow load times due to issues with DNS resolution. By using the Alpha DNS Service for prototyping and demoing, the team was able to achieve faster load times and improved reliability, leading to increased interest from stakeholders.
+- A public health website prototype required access to support HTTPS web traffic. By using the Alpha DNS Service for prototyping and demoing, the team was able to achieve faster load times and improved security, leading to increased interest from stakeholders.
+   - https://safeinputs.alpha.canada.ca/
 
 ## Technical Specifications
 
 - DNS protocol support: DNS, DNSSEC
-- Security features: DDoS protection, IP filtering, Anycast network
-- Compliance: HIPAA, FISMA, FedRAMP
+- Security features: DDoS protection
 
 ## Contact Information
 
-For support or assistance with the Alpha DNS Service, please contact the Public Health Data Center of Practice at dns@phdcp.ca.
+For support or assistance with the Alpha DNS Service, please contact the Public Health Data Center of Practice.
