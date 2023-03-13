@@ -8,9 +8,10 @@ Each service page includes a description of the service, its features and benefi
 
 ## Getting Started
 
-To get started with any of our services, please contact the Public Health Data Center of Practice for access and usage guidelines.
+To get started with any of our technical services, please contact the Public Health Data Center of Practice for access and usage guidelines.
 
 We encourage you to explore our catalog and reach out to us if you have any questions or if you're interested in getting started with any of our services.
+
 
 ## Catalog 
 
