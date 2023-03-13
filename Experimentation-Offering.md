@@ -26,12 +26,11 @@ The Experimentation Sandbox is a development and testing environment for new app
 ## Success Stories
 
 - A research team used the Innovation Sandbox to develop a data collection and retrieval application to automate and standardize the data intake for the yearly Health of Canadians report 
-
-https://github.com/PHACDataHub/cpho-phase2
+  - https://github.com/PHACDataHub/cpho-phase2
 
 ## Getting Started
 
-To get started with the Innovation Sandbox, please contact the Public Health Data Center of Practice for access and usage guidelines.
+To get stated with the Innovation Sandbox, please contact the Public Health Data Center of Practice for access and usage guidelines.
 
 ## Limitations
 
