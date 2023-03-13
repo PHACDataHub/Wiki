@@ -1,26 +1,39 @@
-## Innovation Sandbox
+# Experimentation Sandbox
 
-The Innovation Sandbox is an environment designed for development and testing of new applications, services, and technologies. It is a non-production environment with limited capabilities and resources. 
+The Experimentation Sandbox is a development and testing environment for new applications, services, and technologies. It provides a secure and non-production environment with basic cloud services, limited resources, and usage-based billing.
 
-### Features
+## Features
 
-- Non-production environment
-- Limited resources and capabilities
-- Access to basic cloud services (e.g., compute, storage, network)
-- Usage-based billing
+- Non-production environment for experimentation and learning
+- Access to basic cloud services such as compute, storage, and network
+- Limited resources and capabilities to keep experimentation costs low
+- Usage-based billing to control costs
 
-### Benefits
+## Benefits
 
-- Enables users to test and develop new applications, services, and technologies
-- Provides a safe and secure environment for experimentation and learning
-- Reduces risk of production outages and impacts
+- Enables testing and development of new applications, services, and technologies
+- Provides a secure and safe environment for experimentation
+- Reduces the risk of production outages and impacts
 - Helps ensure compliance with regulations and standards
 
-### Getting Started
+## Use Cases
 
-To get started with the Innovation Sandbox, please contact the Public Health Data Center of Practice for more information on access and usage guidelines.
+- Develop and test new data analysis algorithms
+- Test new application code or infrastructure configurations
+- Prototype new web applications or mobile apps
+- Experiment with new security models or access controls
 
-### Limitations
+## Success Stories
+
+- A research team used the Innovation Sandbox to develop a data collection and retrieval application to automate and standardize the data intake for the yearly Health of Canadians report 
+
+https://github.com/PHACDataHub/cpho-phase2
+
+## Getting Started
+
+To get started with the Innovation Sandbox, please contact the Public Health Data Center of Practice for access and usage guidelines.
+
+## Limitations
 
 - Not intended for production workloads
 - Only unclassified data may be used
