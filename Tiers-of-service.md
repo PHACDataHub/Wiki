@@ -8,13 +8,13 @@ The Copper Tier is the foundational tier of the Public Health Data Center of Pra
 - Access to basic technical documentation and tutorials
 - Basic technical support and troubleshooting
 
-## Titanium Tier
+## Titanium Tier (Not Available)
 The Titanium Tier is the intermediate tier of the Public Health Data Center of Practice Technical Services. It provides more advanced technical support to public health professionals, data scientists, and technology experts who have some experience working with health data. Services provided at the Titanium Tier include:
 - Access to more advanced technical documentation and tutorials
 - Advanced technical support and troubleshooting
 - Access to cloud computing resources for storing and analyzing health data
 
-## Platinum Tier
+## Platinum Tier (Not Available)
 The Platinum Tier is the highest tier of the Public Health Data Center of Practice Technical Services. It provides the most advanced technical support to public health professionals, data scientists, and technology experts who require the highest level of support. Services provided at the Platinum Tier include:
 - Access to expert technical documentation and tutorials
 - Dedicated technical support team with priority response times
