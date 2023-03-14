@@ -31,7 +31,7 @@ The Public Health Data Center of Practice uses cloud computing services to store
 
 ### Templates 
 
-* [[Experimentation Sandbox MOU]]
+* [[Innovation and Experimentation Platform MOU]]
 * [[Experimentation Sandbox Welcome Email]]
 * [Dept. to Dept. MOU Template](Department-to-Department-MOU-Template)
 * [[Technical Intake Questionnaire]]
