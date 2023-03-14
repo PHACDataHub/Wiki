@@ -14,13 +14,9 @@ The Public Health Data Center of Practice uses cloud computing services to store
 - Data processing and analysis services to support public health research and analysis
 
 * [[Tiers of service]]
-
 * [[Catalog of Business Services]]
-
 * [[Catalog of Technical Services]]
-
 * [[Initial Project List]]
-
 * [[ Cloud Intake Process ]]
 
 ## Technology, Standards, Policies, Documents and Templates
@@ -37,7 +33,7 @@ The Public Health Data Center of Practice uses cloud computing services to store
 
 * [[Innovation Sandbox MOU]]
 * [[Innovation Sandbox Welcome Email]]
-* [[Department-to-Department-MOU-Template]]
+* [Dept. to Dept. MOU Template](Department-to-Department-MOU-Template)
 * [[Technical Intake Questionnaire]]
 
 ### Policies
