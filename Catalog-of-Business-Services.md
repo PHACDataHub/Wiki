@@ -14,5 +14,5 @@ We encourage you to explore our catalog and reach out to us if you have any ques
 
 ## Catalog
 
-[[Cloud and Data Coaching Sessions]]
-[[Cloud and Data Reference Material]]
+* [[Cloud and Data Coaching Sessions]]
+* [[Cloud and Data Reference Material]]
