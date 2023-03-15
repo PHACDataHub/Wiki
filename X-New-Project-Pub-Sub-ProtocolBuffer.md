@@ -18,6 +18,7 @@ Using Pub/Sub and google cloud functions (no Internet exposure) to generate:
 - If we have dev/test/prod projects to be created, do we publish three messages, and then do tests to see if the Folder already exists? I think one message with a `google.protobuf.ListValue` (think array) that holds one or more environments to be created would be a good approach.
 
 ## Structure of custom ProtoBuff
+### Definition
 ```
 syntax = "proto3";
 message ProtocolBuffer {
@@ -28,6 +29,25 @@ message ProtocolBuffer {
 
 }
 ```
+### Example 1
+```
+{
+  "owner_gcp_account": "bob.mckenzie@gcp.myorg.org",
+  "project_name": "ph-projectname"
+  "environment_type": ["experimental"],
+  "parent_folder": "23324234234"
+}
+```
+### Example 2
+```
+{
+  "owner_gcp_account": "bob.mckenzie@gcp.myorg.org",
+  "project_name": "ph-projectname"
+  "environment_type": ["development", "test", "production"],
+  "parent_folder": "23324234234"
+}
+```
+### Always more questions!
 - What is the minimal payload that we can derive the rest from?
     - I.e. using the project name we can derive the project name - Folder: `ph-janedoe`, Project: `phx-janedoe`.
     - Derive security group names: `phx-janedoe-owner@gcp.hc-sc.gc.ca`
