@@ -50,7 +50,7 @@ message ProtocolBuffer {
 ### Always more questions!
 - What is the minimal payload that we can derive the rest from?
     - I.e. using the project name we can derive the project name - Folder: `ph-janedoe`, Project: `phx-janedoe`.
-    - Derive security group names: `phx-janedoe-owner@gcp.hc-sc.gc.ca`
+    - Derive security group names: `phx-janedoe-owner@gcp.hc-sc.gc.ca` or `phx-janedoe-editor@gcp.hc-sc.gc.ca`
     - Derive Budget and Billing name: `phx-janedoe-budget`
 - Is this even the right approach?  A vendor showed an architecture diagram that showed things broken up across multiple Pub/Sub topics.
 
