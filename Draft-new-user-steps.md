@@ -9,4 +9,7 @@
 * Set project tags using tagging standard
 * Alert user to existence of project 
 * Welcome user to experimentation sandbox
-* Record project information in le wiki      
+* Record project information in le wiki  
+
+
+[[X-Initial-Create-Project-CLI-Commands]]
