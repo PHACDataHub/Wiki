@@ -26,7 +26,7 @@ gcloud beta billing projects link <PROJECT_ID> \
 ```
 4. Create Security Group
 ```
-gcloud identity groups create <GROUP_EMAIL> --organization=$ORG_ROOT_ID \
+gcloud identity groups create <PROJECT_ID>-owner@gcp.myorg.ca --organization=$ORG_ROOT_ID \
 --group-type="security"
 ```
 5. Add Member to Group
