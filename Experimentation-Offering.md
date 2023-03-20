@@ -44,8 +44,9 @@ To get stated with the Innovation Sandbox, please contact the Public Health Data
 
 ## Service Capacity
 
-[##---]
-This service is currently being implemented using manual process. As these processes become automated the capacity in this service offering will increase. For please contact COP for current availability
+🪫 (Low)
+
+This service is currently being implemented using manual process. As these processes become automated the capacity in this service offering will increase. Please contact group for current availability.
 
 ## Service Timelines 
 
