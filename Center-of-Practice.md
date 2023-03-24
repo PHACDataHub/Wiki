@@ -19,7 +19,7 @@ The Public Health Data Center of Practice uses cloud computing services to store
 * [[Initial Project List]]
 * [[ Cloud Intake Process ]]
 
-## Technology, Standards, Policies, Documents and Templates
+## Technology, Standards, Policies, Processes, Documents and Templates
 ### Technology 
 * [Github Code Spaces ](How-to-use-GitHub-Codespaces)
 
@@ -43,6 +43,9 @@ The Public Health Data Center of Practice uses cloud computing services to store
 * [[COP Compliance Policy]]
 * [[COP Data Management Policy]]
 * [[COP Git Repository Policy]]
+
+### Processes
+* [[GCP Project on-boarding process]]
 
 ### Documents 
 * [[Intake Processes]]
