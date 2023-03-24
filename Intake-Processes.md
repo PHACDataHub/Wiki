@@ -1,6 +1,8 @@
 # Public Health Data Center of Practice Intake Processes
 
-The Public Health Data Center of Practice offers several intake processes to help ensure that your project or request is aligned with our services and resources. Each intake process is tailored to different types of requests, and can help streamline the process of getting started with our services. Here are the different intake processes we offer:
+![image](https://user-images.githubusercontent.com/367922/227390154-0808a412-83c9-4dcd-a0db-b9866730e07b.png)
+
+The Public Health Data Center of Practice offers several intake processes scenarios to help ensure that your request is aligned with our services and resources. Each intake process is tailored to different types of situation, and can help streamline the process of getting started with our services. Here are the different intake processes we offer:
 
 ## Scenarios 
 
