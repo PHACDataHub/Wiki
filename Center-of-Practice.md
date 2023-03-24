@@ -45,10 +45,11 @@ The Public Health Data Center of Practice uses cloud computing services to store
 * [[COP Git Repository Policy]]
 
 ### Processes
+* [Business Intake Processes](Intake Processes)
 * [[GCP Project on-boarding process]]
 
 ### Documents 
-* [[Intake Processes]]
+
 * [Glossary and Acronyms](Glossary-and-Acronyms)
 * [[COP Business Intake Prep]]
 * [[PDCP Alignment with PHAC Open Science Action Plan]]
