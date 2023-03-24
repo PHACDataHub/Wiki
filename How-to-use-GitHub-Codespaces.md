@@ -40,6 +40,13 @@ A stable and reliable internet connection is also required at all times as this 
 
 You may configure preferences to your liking by accessing the [settings](https://github.com/settings/codespaces). In this section, you can set timeout limits for your codespace which can help save you usage hours while not actively working on your codespace. You can also choose a different web editor instead of VSCode.
 
+## Dev containers
+
+### What are dev containers?
+Dev/Development containers are Docker containers that you can configure for a tailored dev environment.
+
+You can find the Dev containers docs [here](https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/adding-a-dev-container-configuration/introduction-to-dev-containers).
+
 ## Groups using Codespaces
 
  - [Canadian Digital Services(CDS)](https://github.com/cds-snc/notification-api)  
