@@ -41,6 +41,8 @@ To get stated with the Innovation Sandbox, please contact the Public Health Data
 - Users may be removed or services stopped at any time
 - No guarantee of availability or reliability
 - Limited support and documentation
+- No connections to legacy datacenters aka "ground"
+- Restricted to Canadian resources
 
 ## Service Capacity
 
