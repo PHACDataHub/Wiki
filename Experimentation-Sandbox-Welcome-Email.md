@@ -14,6 +14,8 @@ Before we get started, we wanted to outline the terms and conditions for using t
 - Please do not break any rules or policies, legal or GC related.
 - Virtual machines should automatically be shut down after hours to save money.
 
+[Please review other limitations](https://github.com/PHACDataHub/Wiki/wiki/Experimentation-Offering#limitations)
+
 Please be aware of the following as you develop:
 
 - Be aware of the one-time and monthly costs of the resources you will be deploying within your subscription.
