@@ -5,6 +5,7 @@
 * Create 'Owner' user group for project 
 * Put user in owner group
 * Assign owner to project 
+* Assign the Infrastructure Admins group to the project as owner as well.
 * Create 2k annual budget for project 
 * Set project tags using tagging standard
 * Alert user to existence of project 
