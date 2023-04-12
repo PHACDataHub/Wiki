@@ -17,7 +17,8 @@ The Public Health Data Center of Practice uses cloud computing services to store
 * [[Catalog of Business Services]]
 * [[Catalog of Technical Services]]
 * [[Initial Project List]]
-* [[ Cloud Intake Process ]]
+* [[Cloud Intake Process]]
+* [[Cloud Support]]
 
 ## Technology, Standards, Policies, Processes, Documents and Templates
 ### Technology 
