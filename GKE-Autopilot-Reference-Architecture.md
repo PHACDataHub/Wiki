@@ -1,10 +1,11 @@
 # **Introduction**
 Google Kubernetes Engine (GKE) Autopilot is a fully-managed Kubernetes service offered by Google Cloud that simplifies the deployment, scaling, and management of containerized applications. It is designed to provide an optimized, secure, and cost-effective platform for running Kubernetes workloads, allowing organizations to focus on application development and management.
 
+For the Public Health Agency of Canada, adopting GKE Autopilot can help streamline the management of containerized applications, improve resource utilization, and enhance security and compliance. This reference architecture provides an overview of GKE Autopilot and outlines best practices for implementing and managing GKE Autopilot clusters in the context of the Public Health Agency of Canada's cloud infrastructure.
+
 # **Reference Documents**
 [[Core-Development-Principles]]
 
-For the Public Health Agency of Canada, adopting GKE Autopilot can help streamline the management of containerized applications, improve resource utilization, and enhance security and compliance. This reference architecture provides an overview of GKE Autopilot and outlines best practices for implementing and managing GKE Autopilot clusters in the context of the Public Health Agency of Canada's cloud infrastructure.
 # **Architecture Overview**
 GKE Autopilot automates the management of Kubernetes clusters, handling tasks such as provisioning, scaling, and upgrading nodes. It abstracts away the underlying infrastructure, allowing cloud experts at the Public Health Agency of Canada to focus on deploying and managing containerized applications. The high-level architecture of a GKE Autopilot cluster consists of the following components:
 ## Control Plane
