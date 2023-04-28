@@ -2,7 +2,7 @@ Subject: Welcome to the Experimentation Sandbox
 
 Dear [Name],
 
-Welcome to the Center of Practice(COP) Experimentation Sandbox! We are excited to have you on board and look forward to working together to achieve your public health data goals. As part of the accelerated on boarding process we have opted to deploy a GCP project with a small $2000 budget on your behalf. As a follow up to this email/message, someone from the team will do an initial engagement to ensure what has been deployed fits your needs and to also capture business information that our own group will need for tracking. 
+Welcome to the Center of Practice(COP) Experimentation Sandbox! We are excited to have you on board and look forward to working together to achieve your public health data goals. As part of the accelerated on-boarding process we have opted to deploy a GCP project with a small $2000 budget on your behalf. As a follow up to this email/message, someone from the team will do an initial engagement to ensure what has been deployed fits your needs and to also capture business information that our own group will need for tracking. 
 
 Before we get started, we wanted to outline the terms and conditions for using the COP Experimentation Sandbox. As a sandbox environment, it is important to keep in mind the following:
 
