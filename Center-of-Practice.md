@@ -17,13 +17,16 @@ The Public Health Data Center of Practice uses cloud computing services to store
 * [[Catalog of Business Services]]
 * [[Catalog of Technical Services]]
 * [[Initial Project List]]
-* [[ Cloud Intake Process ]]
+* [[Cloud Intake Process]]
+* [[Cloud Support]]
 
-## Technology, Standards, Policies, Documents and Templates
+## Technology, Standards, Policies, Processes, Documents and Templates
 ### Technology 
 * [Github Code Spaces ](How-to-use-GitHub-Codespaces)
 
 ### Standards
+* [[GKE Autopilot Reference Architecture]]
+* [[User Group Naming Standard]]
 * [[Project ID Naming Standard]]
 * [[Cloud-Label-Standard]]
 * [[PDCP DevSecOps Standard]]
@@ -44,10 +47,16 @@ The Public Health Data Center of Practice uses cloud computing services to store
 * [[COP Data Management Policy]]
 * [[COP Git Repository Policy]]
 
+### Processes
+* [Business Intake Processes](Intake-Processes)
+* [[GCP Project on-boarding process]]
+
 ### Documents 
+
 * [Glossary and Acronyms](Glossary-and-Acronyms)
 * [[COP Business Intake Prep]]
 * [[PDCP Alignment with PHAC Open Science Action Plan]]
+* [[Core Development Principles]]
 
 
 ## Conclusion

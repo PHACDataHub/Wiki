@@ -4,7 +4,7 @@
 
 This document outlines the label standard that will be used to set meta data information associated with cloud projects in the Public Health Data Center of Excellence (PDCP). The tagging standard consists of tags that must be filled out when creating a new project. The standard is designed to provide important information about the project, including the client organization, technical contacts, environment, data sensitivity, cloud usage profile, and project name.
 
-## Mandatory and Optional Tags
+## Mandatory Labels
 
 The tagging standard consists of mandatory and optional tags that must be filled out when creating a new subscription. The following table lists the mandatory tags that must be filled out, along with their descriptions and example values:
 

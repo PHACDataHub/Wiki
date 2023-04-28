@@ -24,4 +24,7 @@ We encourage you to use the available tools to enable alerts, view logs, and enh
 
 All users of the Innovation and Experimentation Platform are required to follow the standards and policies set forth by the Public Health Data Center of Practice (PDCP). These documents can be found in the PDCP wiki. By using this environment, you acknowledge and agree to follow these standards and policies.
 
+[Please read our policies section](https://github.com/PHACDataHub/Wiki/wiki/Center-of-Practice#policies)
+
+
 By using this environment, you acknowledge and agree to the terms and conditions of this MOU.

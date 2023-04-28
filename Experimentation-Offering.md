@@ -16,7 +16,7 @@ The Experimentation Sandbox is a development and testing environment for new app
 - Reduces the risk of production outages and impacts
 - Helps ensure compliance with regulations and standards
 
-## Use Cases
+## Use Cases / Playbooks
 
 - Develop and test new data analysis algorithms
 - Test new application code or infrastructure configurations
@@ -41,3 +41,15 @@ To get stated with the Innovation Sandbox, please contact the Public Health Data
 - Users may be removed or services stopped at any time
 - No guarantee of availability or reliability
 - Limited support and documentation
+- No connections to legacy datacenters aka "ground"
+- Restricted to Canadian resources
+
+## Service Capacity
+
+🪫 (Low)
+
+This service is currently being implemented using manual process. As these processes become automated the capacity in this service offering will increase. Please contact group for current availability.
+
+## Service Timelines 
+
+Currently available in a limited capacity.
