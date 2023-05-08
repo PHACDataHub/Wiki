@@ -42,7 +42,7 @@ To get stated with the Innovation Sandbox, please contact the Public Health Data
 - No guarantee of availability or reliability
 - Limited support and documentation
 - No connections to legacy datacenters aka "ground"
-- Restricted to Canadian resources
+- Restricted to North American resources
 
 ## Service Capacity
 
