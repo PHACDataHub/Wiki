@@ -9,3 +9,10 @@ option 1:
 Macbook Pro 14 inch
 - 64 GB Ram
 - 1TB 
+
+---
+Vivian's Dream State:
+-> Outlook and MS Teams accessible from the Public Cloud
+-> Cloud9 (https://aws.amazon.com/cloud9/) or Codespaces (https://github.com/f)eatures/codespaces)
+
+That's all I'd need!~
