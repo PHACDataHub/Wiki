@@ -19,7 +19,7 @@ Vivian's Dream State:
 That's all I'd need!~
 
 ---
-Stephen's tier list (personal preference, options I'd ideally have, not exclusive of other options co-existing):
+## Stephen's tier list (personal preference, options I'd ideally have, not exclusive of other options co-existing):
 - Tier 1:
   - bring your own device (BYOD) as an option + external Outlook and MS Teams access
   - BYOD as an option, using iPhone for Outlook and MS Teams (to me, it's not too different)
@@ -34,7 +34,7 @@ Stephen's tier list (personal preference, options I'd ideally have, not exclusiv
   - developer environments on remote _corporate_ virtual machines, accessed from existing corporate hardware. I've seen it before and it cost a bundle and wrecked productivity right down to the second-to-second input delay. It's also a lot of points of failure than a local machine, and is entirely dependent on internet access
     - I'd trust public cloud dev env options like Cloud9 or Codespaces more, but I've not explored them enough to really judge them. They do share a reliance on stable internet access
 
-Stephen's thoughts in greater depth:
+## Stephen's thoughts in greater depth:
 Personally, I prefer a BYOD option. Not saying that should be the default or imposed on anyone, but it's what I'd take for my self if at all possible. My personal dev machine is customized from the OS on up, I've got muscle memory with it and have a good idea what's going on with it (principle of least surprise). For my own developer experience and efficiency, it's as good as it gets.
 
 I can even take or leave access from that device to Outlook and MS Teams; I've found the work iPhone to be sufficient for the majority of "on network" communications (although opening up MS Teams at least would be a big nice-to-have). Whatever we do, we'll need to get on the corporate laptops occasionally for intranet resources or to view any sensitive documents, although I've always found that to be a couple-times-a-week need at most.
