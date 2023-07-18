@@ -15,6 +15,6 @@ We encourage you to explore our catalog and reach out to us if you have any ques
 
 ## Catalog 
 
-[[Experimentation Offering]]
-[[Noble (Experimentation) Offering]]
-[[PHAC Alpha DNS Offering]]
+* [[Experimentation Offering]]
+* [[Noble (Experimentation) Offering]]
+* [[PHAC Alpha DNS Offering]]
