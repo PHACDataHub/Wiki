@@ -3,7 +3,7 @@ In this tutorial we will go through how to set up a Linux virtual desktop.
 
 For reference here is the google guide on creating virtual workstations on GCP: https://cloud.google.com/compute/docs/virtual-workstation
 
-Here is table lists options for creating a virtual workstation. Note that if you wish to use the first 2 configurations of virtual workstation, you would need to install a Teradici [Zero Client](https://www.teradici.com/products/desktop-performance-solutions/zero-clients) or the latest [Teradici software client](https://docs.teradici.com/find/product/software-and-mobile-clients) for Windows, Mac, or Linux on your ### local machine to access the virtual workstation. You would also need a Teradici Cloud Access Software license. 
+Here is table lists options for creating a virtual workstation. Note that if you wish to use the first 2 configurations of virtual workstation, you would need to install a Teradici [Zero Client](https://www.teradici.com/products/desktop-performance-solutions/zero-clients) or the latest [Teradici software client](https://docs.teradici.com/find/product/software-and-mobile-clients) on your local machine to access the virtual workstation. You would also need a Teradici Cloud Access Software license. 
 ![image](https://github.com/PHACDataHub/Wiki/assets/133695429/31d6ad13-4cd8-4bf9-bb6f-466381453bac)
 
 Preconfigured virtual workstation solution on [Cloud Marketplace](https://console.cloud.google.com/marketplace) are available if you don't want to use the configurations in the table above
