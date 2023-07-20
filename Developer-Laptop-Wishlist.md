@@ -43,4 +43,4 @@ Between zero trust and working in the open (even our private GitHub repos must b
 
 ----
 
-Not really a developer, so the biggest problem that I notice is not being able to install/use the most basic things like a shell...admin privileges is already stated, but I want to add my name so that it's clear that lots of people feel this way! - Kat :) 
+Not really a developer, so the biggest problem that I notice is not being able to install/use the most basic things like a shell...admin privileges is already stated, but I want to add my name so that it's clear that lots of people feel this way! - Kat
