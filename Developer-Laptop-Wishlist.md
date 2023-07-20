@@ -40,3 +40,7 @@ Personally, I prefer a BYOD option. Not saying that should be the default or imp
 I can even take or leave access from that device to Outlook and MS Teams; I've found the work iPhone to be sufficient for the majority of "on network" communications (although opening up MS Teams at least would be a big nice-to-have). Whatever we do, we'll need to get on the corporate laptops occasionally for intranet resources or to view any sensitive documents, although I've always found that to be a couple-times-a-week need at most.
 
 Between zero trust and working in the open (even our private GitHub repos must be 100% unclassified content), there shouldn't be a security imperative to develop in managed dev environments. Yes, managed and monitored dev environments provide better security posture (maybe) and visibility (true, although our zero trust boundaries should provide visibility where it matters most), but I think it's marginal for us and should be compared against costs to dev efficiency.
+
+----
+
+Not really a developer, so the biggest problem that I notice is not being able to install/use the most basic things like a shell...admin privileges is already stated, but I want to add my name so that it's clear that lots of people feel this way! - Kat :) 
