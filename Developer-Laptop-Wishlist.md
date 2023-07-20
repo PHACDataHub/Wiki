@@ -14,10 +14,10 @@ Macbook Pro 14 or 16 inch
 ---
 ## Ben's thoughts
 
+||Ideal|Alternative|
 |---|---|---|
-|---|---|---|
-
-
+|Hardware|Mac Book Air with M2 chip|Data Science laptop|
+|Software|Local Admin Privilege's|Full control of a Virtual Desktop|
 
 ---
 
