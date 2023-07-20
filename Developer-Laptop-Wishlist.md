@@ -12,6 +12,14 @@ Macbook Pro 14 or 16 inch
 - Admin Privileges
 
 ---
+## Ben's thoughts
+
+|---|---|---|
+|---|---|---|
+
+
+
+---
 
 Jia's laptop wish list:
 
@@ -56,3 +64,4 @@ I personally also agree with BYOD, developers are most comfortable with their ow
 -------------- ZACHARY's THOUGHTS -------------
 
 After conversations yesterday, Jia mentioned that VMs in GCP can be converted to Virtual Desktop Environments w/ various operating systems and open admin rights. These could be possibly scaled on-demand to meet RAM/Core/vGPU requirements?  This is like what NRCAN provided StatCan supporting PHAC during the COVID TF, and it proved to be nimble and powerful enough..
+***
