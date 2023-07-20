@@ -12,6 +12,12 @@ Macbook Pro 14 or 16 inch
 - Admin Privileges
 
 ---
+
+Jia's laptop wish list:
+
+Macbook Air 13 with M2 chip. (so far I'm also good working on the government issue laptop with access to GCP)
+
+---
 Vivian's Dream State:
 -> Outlook and MS Teams accessible from the Public Cloud
 -> Cloud9 (https://aws.amazon.com/cloud9/) or Codespaces (https://github.com/f)eatures/codespaces)
