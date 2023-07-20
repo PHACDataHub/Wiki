@@ -51,6 +51,7 @@ Between zero trust and working in the open (even our private GitHub repos must b
 
 Not really a developer, so the biggest problem that I notice is not being able to install/use the most basic things like a shell...admin privileges is already stated, but I want to add my name so that it's clear that lots of people feel this way! - Kat
 
+I personally also agree with BYOD, developers are most comfortable with their own computers and having an extra computer that can do the same as our own is not necessary. Opening up MS Teams and Outlook to external access will be the best solution while keeping government applications locked to our work laptops. All applications on our laptops already have locked access with our Entrust Digital IDs which is why I think unlocking our PHAC emails to be accessed externally can be viable. - Kajan
 
 -------------- ZACHARY's THOUGHTS -------------
 
