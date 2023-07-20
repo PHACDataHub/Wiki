@@ -50,3 +50,8 @@ Between zero trust and working in the open (even our private GitHub repos must b
 ----
 
 Not really a developer, so the biggest problem that I notice is not being able to install/use the most basic things like a shell...admin privileges is already stated, but I want to add my name so that it's clear that lots of people feel this way! - Kat
+
+
+-------------- ZACHARY's THOUGHTS -------------
+
+After conversations yesterday, Jia mentioned that VMs in GCP can be converted to Virtual Desktop Environments w/ various operating systems and open admin rights. These could be possibly scaled on-demand to meet RAM/Core/vGPU requirements?  This is like what NRCAN provided StatCan supporting PHAC during the COVID TF, and it proved to be nimble and powerful enough..
