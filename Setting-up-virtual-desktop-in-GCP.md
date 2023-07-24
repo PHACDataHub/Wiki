@@ -43,8 +43,11 @@ you can paste these commands in your ssh window for verification
 
 After finishing the set up process, if you go back to the **remote access** tab on the left hand side, the new vm should appear. like below
 ![image](https://github.com/PHACDataHub/Wiki/assets/133695429/8cb1e317-221b-4e1b-8150-700ff58ce1fd)
-click on the icon with your vm name will initiate connection to your new virtual desktop. It will ask you for the 6 digit pin code you just created in the step 3 of the set up process. After inputting the pin, you will be log on to your virtual desktop.
+click on the icon with your vm name will initiate connection to your new virtual desktop. It will ask you for the 6 digit pin code you just created in the step 3 of the set up process. After inputting the pin, you will be log on to your virtual desktop. Your desktop should look some similar to this
+![image](https://github.com/PHACDataHub/Wiki/assets/133695429/4647012f-ae63-4fef-8f66-edd400872f88)
 
+## Post installation
+Here are some things highly recommended for your virtual desktop
 
 
  
