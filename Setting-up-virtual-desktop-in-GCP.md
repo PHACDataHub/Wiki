@@ -1,9 +1,9 @@
 # Tutorial to set up virtual workstation in your GCP project (for beginner)
 In this tutorial we will go through how to set up a Linux virtual workstation, specifically setting up chrome remote desktop in Debian distribution following this google guide: https://cloud.google.com/architecture/chrome-desktop-remote-on-compute-engine
 
-Please check the google guide to make sure you have all the pre-requisite
+_For reference here is the general google guide on creating virtual workstations on GCP: https://cloud.google.com/compute/docs/virtual-workstation_
 
-For reference here is the google guide on creating virtual workstations on GCP: https://cloud.google.com/compute/docs/virtual-workstation
+_Please check the general google guide to make sure you have all the pre-requisite_
 
 Here is a table listing options for creating a virtual workstation. Note that if you wish to use the first 2 configurations of virtual workstation, you would need to install a Teradici [Zero Client](https://www.teradici.com/products/desktop-performance-solutions/zero-clients) or the latest [Teradici software client](https://docs.teradici.com/find/product/software-and-mobile-clients) on your local machine to access the virtual workstation. You would also need a Teradici Cloud Access Software license. 
 
@@ -17,7 +17,7 @@ Preconfigured virtual workstation solution on [Cloud Marketplace](https://consol
 here is the guide that google provides to set up virtual machine.
 https://cloud.google.com/compute/docs/instances/create-start-instance
 
-Following the google guide we will arrive at the new VM instance configuration page. One thing to note is that boot disk determines what operation system and distribution the VM will be in.
+Following the google guide we will arrive at the new VM instance configuration page. One thing to note is that boot disk determines what operating system and distribution the VM will be in.
 ## ![image](https://github.com/PHACDataHub/Wiki/assets/133695429/4a62ffb4-2da8-4423-9b48-9f07eb099b5a)
 
 
@@ -43,11 +43,19 @@ you can paste these commands in your ssh window for verification
 
 After finishing the set up process, if you go back to the **remote access** tab on the left hand side, the new vm should appear. like below
 ![image](https://github.com/PHACDataHub/Wiki/assets/133695429/8cb1e317-221b-4e1b-8150-700ff58ce1fd)
-click on the icon with your vm name will initiate connection to your new virtual desktop. It will ask you for the 6 digit pin code you just created in the step 3 of the set up process. After inputting the pin, you will be log on to your virtual desktop. Your desktop should look some similar to this
+
+click on the icon with your vm name will initiate connection to your new virtual desktop. It will ask you for the 6 digit pin code you just created in the step 3 of the set up process. After inputting the pin, you will be log on to your virtual desktop. Your desktop should look something similar to this
 ![image](https://github.com/PHACDataHub/Wiki/assets/133695429/4647012f-ae63-4fef-8f66-edd400872f88)
 
 ## Post installation
-Here are some things highly recommended for your virtual desktop
+Here are 6 post installation steps at the end of the tutorial and some troubleshooting tips to help make the virtual desktop run smoothly, highly recommended to take a look at them.
+
+I especially recommend the following 3 post installation steps
+![image](https://github.com/PHACDataHub/Wiki/assets/133695429/c6896750-b68d-421d-866f-ae21cc030234)
+![image](https://github.com/PHACDataHub/Wiki/assets/133695429/669c8332-b03e-49ac-8728-6a611d39f26b)
+![image](https://github.com/PHACDataHub/Wiki/assets/133695429/30d94105-038d-4165-abee-ccc5d931c946)
+
+### Please remember to turn off your virtual desktop if you are not using them for long period of time, because uptime costs money!
 
 
  
