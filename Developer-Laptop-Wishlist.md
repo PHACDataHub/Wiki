@@ -21,12 +21,12 @@ Macbook Pro 14 or 16 inch
 
 ---
 
-Jia's laptop wish list:
+## Jia's laptop wish list:
 
 Macbook Air 13 with M2 chip. (so far I'm also good working on the government issue laptop with access to GCP)
 
 ---
-Vivian's Dream State:
+## Vivian's Dream State:
 -> Outlook and MS Teams accessible from the Public Cloud
 -> Cloud9 (https://aws.amazon.com/cloud9/) or Codespaces (https://github.com/f)eatures/codespaces)
 
@@ -61,7 +61,14 @@ Not really a developer, so the biggest problem that I notice is not being able t
 
 I personally also agree with BYOD, developers are most comfortable with their own computers and having an extra computer that can do the same as our own is not necessary. Opening up MS Teams and Outlook to external access will be the best solution while keeping government applications locked to our work laptops. All applications on our laptops already have locked access with our Entrust Digital IDs which is why I think unlocking our PHAC emails to be accessed externally can be viable. - Kajan
 
--------------- ZACHARY's THOUGHTS -------------
+## ZACHARY's THOUGHTS
 
 After conversations yesterday, Jia mentioned that VMs in GCP can be converted to Virtual Desktop Environments w/ various operating systems and open admin rights. These could be possibly scaled on-demand to meet RAM/Core/vGPU requirements?  This is like what NRCAN provided StatCan supporting PHAC during the COVID TF, and it proved to be nimble and powerful enough..
 ***
+
+## Bainers Bargain
+
+This is the deal I would make with the desktop crew. I(my director) will absolve you of all risk in the management and support of my work device and in turn I will take on the responsibility of providing my own patching, scanning and technical support. As part of this trade, you will give me access to local admin AND access to the Windows Defender reports for this device.
+
+I only need a modern laptop, 32gb of ram and a SSD. If I can get local admin, all I want to install on the Windows side is WSL2. 
+
