@@ -53,6 +53,7 @@ The Public Health Data Center of Practice uses cloud computing services to store
 
 ### Documents 
 
+* [[Account Types and Management in Google Cloud Platform]]
 * [Glossary and Acronyms](Glossary-and-Acronyms)
 * [[COP Business Intake Prep]]
 * [[PDCP Alignment with PHAC Open Science Action Plan]]
