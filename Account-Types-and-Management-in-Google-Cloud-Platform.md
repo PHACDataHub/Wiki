@@ -1,5 +1,3 @@
-# Account Types and Management in Google Cloud Platform
-
 ## Identification and Authorization of Users
 
 In order to maintain optimal security and manageability of our Google Cloud Platform (GCP) environment, we categorize our users into various account types. Each account type is tailored to fulfill specific roles and responsibilities within our GCP infrastructure.
