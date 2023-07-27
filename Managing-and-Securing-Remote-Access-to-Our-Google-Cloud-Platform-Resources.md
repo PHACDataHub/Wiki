@@ -1,12 +1,4 @@
-## 1. Introduction and Purpose
-
-This guide outlines the strategies and measures adopted by our organization to manage and secure remote access to our Google Cloud Platform (GCP) resources. The purpose of this document is to ensure the security and integrity of our information systems, offering a detailed perspective on our approach to remote access management.
-
-While this information specifically supports our compliance with AC-17 security control under the NIST framework, it broadly serves as a guide for the best practices adopted by our organization in managing remote access to our systems.
-
-For a comprehensive understanding of remote access to our systems, this guide covers roles and responsibilities, security measures, monitoring tools and practices, restrictions, and training provided to personnel.
-
-## 2. Remote Access Management
+## Remote Access Management
 
 Management of remote access to our GCP resources is a shared responsibility involving various roles within our organization.
 
@@ -14,15 +6,12 @@ Management of remote access to our GCP resources is a shared responsibility invo
 
 **GCP Project Owners**, on the other hand, are responsible for managing remote access to specific GCP resources. They work on a project-by-project basis, ensuring that each project’s remote access is secured and adheres to our organization’s remote access policy. The GCP project owners are ultimately responsible for the administration and security of remote access for their respective projects.
 
-## 3. Security Measures for Remote Access
+## Security Measures for Remote Access
 
 To ensure the security and integrity of our information systems, our organization has implemented several measures to strengthen remote connections. 
 
 **Multi-Factor Authentication (MFA):** 
 All remote access requests to our GCP resources must undergo Multi-Factor Authentication. This is a primary layer of defense that verifies the identity of the user by requiring them to present at least two separate pieces of evidence (factors) for their identity.
-
-**Bastion Hosts:** 
-For secure remote access, we employ the use of Bastion Hosts - a special purpose computer on a network specifically designed and configured to withstand attacks. This provides a secure, controlled point of entry and exit to our cloud resources, minimizing potential security risks.
 
 **Encrypted Tunnels:**
 Data transmitted during remote access is protected by encrypted tunnels. This ensures that even if data packets are intercepted during transmission, they cannot be deciphered without the encryption keys.
@@ -32,9 +21,9 @@ In addition to the above, we use AI for detection of irregular access patterns. 
 
 Our security measures are continually reviewed and updated to adapt to evolving threats and to ensure the highest level of security for our remote access.
 
-## 4. Monitoring of Remote Access
+## Monitoring of Remote Access
 
-To ensure continuous security of our cloud resources, all remote access to our GCP environment is actively monitored. This process is shared among various roles in our organization.
+To ensure the continuous security of our cloud resources, all remote access to our GCP environment is actively monitored. This process is shared among various roles in our organization.
 
 **GCP Security Center:** 
 We utilize the tools provided by Google Cloud's Security Command Center for monitoring our GCP environment. The Security Command Center provides us with comprehensive visibility, continuous risk analysis, and actionable recommendations to ensure our cloud resources remain secure.
@@ -47,7 +36,7 @@ Our GCP Security Admins play a key role in monitoring remote access, closely ana
 
 Our monitoring process is designed to be proactive and responsive, ensuring that potential security breaches can be identified and addressed promptly.
 
-## 6. Restrictions and Policies for Remote Access
+## Restrictions and Policies for Remote Access
 
 We recognize that restricting and managing access is essential to maintain the security of our GCP resources. Our remote access policies are designed to limit potential exposure and mitigate risks associated with remote connections.
 
