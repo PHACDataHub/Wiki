@@ -60,11 +60,11 @@ Accounts that are no longer needed are promptly deactivated. Conditions for deac
 
 By managing the lifecycle of system accounts diligently, we ensure that all accounts are used responsibly and securely, thereby enhancing our security measures and compliance with IT security standards.
 
-# Training Requirements for Different Types of Accounts
+## Training Requirements for Different Types of Accounts
 
 User education is a critical aspect of managing our Google Cloud Platform (GCP) environment securely. To maintain a secure and compliant system, it is essential that users who interact with our GCP environment are equipped with the necessary knowledge and understanding of the platform.
 
-## Individual and Service Accounts
+### Individual and Service Accounts
 
 Users managing **Individual Accounts** and **Service Accounts** are required to undergo a comprehensive training program. This includes both theoretical and practical sessions covering a wide range of topics:
 
@@ -73,7 +73,7 @@ Users managing **Individual Accounts** and **Service Accounts** are required to 
 - Learning to perform their tasks efficiently without inadvertently compromising security.
 - Understanding the implication of their actions within the GCP environment.
 
-## Emergency Accounts
+### Emergency Accounts
 
 Users with access to **Emergency Accounts** require additional training. This training focuses on crisis management and decision-making under pressure:
 
@@ -82,7 +82,7 @@ Users with access to **Emergency Accounts** require additional training. This tr
 - Identifying what constitutes a crisis situation warranting the use of an emergency account.
 - Knowing how to act quickly and effectively in crisis situations.
 
-## Guest Accounts
+### Guest Accounts
 
 Users given access via **Guest Accounts** are typically provided with a basic introduction to the GCP environment:
 
@@ -93,29 +93,29 @@ Users given access via **Guest Accounts** are typically provided with a basic in
 Through these tailored training programs, we ensure all users are equipped with the knowledge necessary to manage their accounts responsibly and securely, thus minimizing the risk of accidental misuse or security compromise.
 
 
-# Procedures for Disabling or Deactivating Accounts
+## Procedures for Disabling or Deactivating Accounts
 
 Properly managing the end stage of an account's lifecycle is crucial to maintaining the security of our Google Cloud Platform (GCP) environment. When accounts are no longer needed or if account holders leave the organization or change roles, it is essential to disable or deactivate these accounts promptly. 
 
 Our procedures for disabling or deactivating accounts are as follows:
 
-## Identification of Accounts for Deactivation
+### Identification of Accounts for Deactivation
 
 We continuously monitor account activity and usage. Accounts that are identified as no longer needed, such as shared, emergency, or temporary accounts, or those tied to individuals who have been transferred or terminated, are flagged for deactivation.
 
-## Review and Approval for Deactivation
+### Review and Approval for Deactivation
 
 Before an account is deactivated, the account status and usage are reviewed by authorized personnel. This is to ensure that no ongoing tasks will be disrupted by the deactivation.
 
-## Execution of Deactivation
+### Execution of Deactivation
 
 Upon approval, the account deactivation is carried out by authorized Google Cloud Organization administrators. The deactivation process ensures that the account no longer has access to any GCP resources.
 
-## Post-Deactivation Review
+### Post-Deactivation Review
 
 After the account deactivation, a post-action review is performed to ensure that the account has been successfully deactivated and to confirm that there are no lingering access rights or permissions.
 
-## Record Keeping
+### Record Keeping
 
 All deactivation actions are recorded and kept for auditing purposes. This ensures a transparent and traceable process, enabling accountability and facilitating potential investigations in the future.
 
