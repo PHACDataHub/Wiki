@@ -23,7 +23,8 @@ The Public Health Data Center of Practice uses cloud computing services to store
 ## Technology, Standards, Policies, Processes, Documents and Templates
 
 ### Tutorials
-* [Setting up virtual workstation in GCP]
+* [[Setting up virtual workstation in GCP]]
+
 ### Technology 
 * [Github Code Spaces ](How-to-use-GitHub-Codespaces)
 
