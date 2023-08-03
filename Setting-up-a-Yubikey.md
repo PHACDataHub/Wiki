@@ -1,6 +1,7 @@
 ⚠ Still being developed ⚠ 
 
 https://developer.okta.com/blog/2021/07/07/developers-guide-to-gpg#back-up-your-gpg-keys
+
 https://gist.github.com/matusnovak/302c7b003043849337f94518a71df777
 
 # Steps to setup your Yubikey
