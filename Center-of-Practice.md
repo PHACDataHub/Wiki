@@ -58,6 +58,7 @@ The Public Health Data Center of Practice uses cloud computing services to store
 
 ### Documents 
 
+* [[Management of Encryption Keys in Cloud Service Providers (CSP)]]
 * [[Managing and Securing Remote Access to Our Google Cloud Platform Resources]]
 * [[Account Types and Management in Google Cloud Platform]]
 * [Glossary and Acronyms](Glossary-and-Acronyms)
