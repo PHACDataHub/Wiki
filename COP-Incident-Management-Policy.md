@@ -20,6 +20,8 @@ This policy defines the process for dealing with security incidents and events i
 
 The PDCP Innovation Sandbox Incident Management Policy is designed to encourage secure and responsible innovation while ensuring that the confidentiality, integrity, and availability of PDCP data and information are maintained. The PDCP acknowledges the importance of timely and effective response to security incidents and events.
 
+The COP Incident Management Policy aligns with the Health Canada / Public Health Agency of Canada Cyber Security Event Management Plan v1.0. These two policies will be used together to implement incident and event management.  
+
 To ensure appropriate management of security incidents and events, the following steps must be followed:
 
 1. Report incident: If a security incident is suspected or detected, the incident must be reported to the PDCP Incident Management team as soon as possible.
@@ -49,7 +51,7 @@ The PDCP Innovation Sandbox is designed to encourage secure innovation. In the e
 
 - Warning
 - Escalated Warning
-- Removal of subscription and resources
+- Removal of subscriptions and resources
 
 The PDCP acknowledges that the Innovation Sandbox is a work in progress and is committed to continuously improving this policy to align with best practices and changing business needs.
 
