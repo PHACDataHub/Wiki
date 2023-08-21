@@ -55,7 +55,7 @@ I especially recommend the following 3 post installation steps
 ![image](https://github.com/PHACDataHub/Wiki/assets/133695429/669c8332-b03e-49ac-8728-6a611d39f26b)
 ![image](https://github.com/PHACDataHub/Wiki/assets/133695429/30d94105-038d-4165-abee-ccc5d931c946)
 
-### Please remember to turn off your virtual workstation if you are not using them for long period of time, because uptime costs money!
+### Please be mindful of your cloud usage and cost
 
 
  
