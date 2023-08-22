@@ -24,7 +24,7 @@ The methodology can be seamlessly incorporated using an open-source tool tailore
 
 ### Video Demonstration
 
-![image](https://github.com/PHACDataHub/Wiki/assets/367922/ba1dfbb3-f192-4e3e-a693-eb998c167c54)
+[![Click to play video button](https://github.com/PHACDataHub/Wiki/assets/367922/ba1dfbb3-f192-4e3e-a693-eb998c167c54)](https://www.youtube.com/watch?v=rRrxuRPmutY)
 
 ## Concluding Thoughts
 
