@@ -2,7 +2,7 @@
 
 At the Public Health Data Center of Practice (PDCP), we are committed to providing the best possible support to our stakeholders. If you require support or assistance with any of our services, please refer to the following channels:
 
-- **Slack:** You can join our #cloud-support channel on Slack for real-time support during our support windows.
+- **Slack:** You can join our #cloud-support channel OR  #cloud-products-and-interop in Slack for real-time support during our support windows.
 - **Email:** You can contact us at gcpops-pgcops@phac-aspc.gc.ca for support.
 
 When you contact us for support, we follow an escalation path to ensure that your issue is addressed promptly and effectively. The escalation path is as follows:
