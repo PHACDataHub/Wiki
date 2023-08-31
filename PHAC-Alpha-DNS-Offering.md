@@ -49,4 +49,7 @@ To get started with the Alpha DNS Service, please contact the Public Health Data
 
 ## Contact Information
 
-For support or assistance with the Alpha DNS Service, please contact the Public Health Data Center of Practice.
+For support or assistance with the Alpha DNS Service, please contact the Public Health Data Center of Practice. For Technical information, please goto the Alpha DNS github repository. 
+
+https://github.com/PHACDataHub/dns
+
