@@ -10,8 +10,6 @@ Director | Establishes the corporate view for the data infrastructure for the Ag
 Architect | Liaising with internal and external entities on best practices Provide direction on infrastructure and security Provide guidance on security and data framework Develop, scale and lead best practices in secure, privacy respecting back-end development and APIs Develop and implement a modern, reliable, and flexible infrastructure, with secure network access and secure collaborative storage
 Developer | Plan for the Sprint, create and manage the Sprint Backlog Estimate Tasks, Features Ensure work adheres to Definition of Done Delivers a usable Increment at the end of each Sprint
 Operations | Establish uniformity and precision in data to achieve suitable quality assurance. Provide reports on up-to-date initiatives. Monitor and support team members with GitHub project related questions Aim for continuous improvement via feedback provided from user(s). Reconcile and maintain project tracker database. Create centralized location for FAQs and informative hub. Seek method(s) of automation, if applicable to reduce admin task time. Adhere to ad-hoc requests.
--- | --
-
 
 <!--EndFragment-->
 </body>
