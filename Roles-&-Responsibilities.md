@@ -3,7 +3,6 @@
 <!--StartFragment-->
 
 Role | Responsibility
--- | --
 Scrum Master | 
 * Coach team members in self-management Assist development team focus on creating 
 * Increments adhering to the Definition of 
