@@ -67,6 +67,8 @@ After conversations yesterday, Jia mentioned that VMs in GCP can be converted to
 
 Connect to a supported on-premises hosted VM.
 Deploy and connect to a cloud-hosted VM."
+
+If none of these are viable ^^^^ then a _subsidized_, BYOD environment would be the best. My home tower is probably cheaper for me to procure and would take less time to hit the ground running than waiting for a 10 year study and getting something underpowered/unusable.
 ***
 
 ## Bainers Bargain
