@@ -6,6 +6,7 @@
 |DTB|Digital Transformation Branch -  Health Canada IT|
 |ICAM|Identity, Credential, and Access Management (ICAM) is a set of security tools, policies, and systems that helps organizations manage, monitor, and secure access to their information technology (IT) infrastructure.|
 |CIRA|Centre for Integrated Risk Assessment|
+|MRAP|Management Response & Action Plan|
 |ITAP|Integrated Threat Assessment Platform (owned by CIRA)|
 |APM|Application Portfolio Management|
 |PBMM|Protected B, Medium Integrity, Medium Availability|
