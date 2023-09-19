@@ -2,6 +2,16 @@
 |----|----|----|
 |ATO|Authority to Operate|
 |CIPHI|Cloud Infrastructure for Public Health Intelligence|
+|NML|National Microbiology Laboratory|
+|FTP|File Transfer Protocol|
+|VDG|Vaccination Data Gateway|
+|EMR|Electronic Medical Record|
+|PTs|Provinces and Territories|
+|IPS|International Patient Summary|
+|PVC|Proof of Vaccine Credentials|
+|CVC|Canadian Vaccine Catalogue|
+|IPS|Internal Patient Summary|
+|ARB|Architecture Review Board|
 |GPHIN|Global Public Health Intelligence Network|
 |DTB|Digital Transformation Branch -  Health Canada IT|
 |ICAM|Identity, Credential, and Access Management (ICAM) is a set of security tools, policies, and systems that helps organizations manage, monitor, and secure access to their information technology (IT) infrastructure.|
