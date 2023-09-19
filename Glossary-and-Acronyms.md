@@ -1,5 +1,6 @@
 |Term|Definition(En)|Definition(FR)|
 |----|----|----|
+|ATO|Authority to Operate|
 |CIPHI|Cloud Infrastructure for Public Health Intelligence|
 |GPHIN|Global Public Health Intelligence Network|
 |DTB|Digital Transformation Branch -  Health Canada IT|
