@@ -1,0 +1,27 @@
+name: Wiki to Main
+
+on:
+  [gollum]
+  
+jobs:
+  add-remote-and-merge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Add remote branch
+        run: git remote add wiki https://github.com/PHACDataHub/Wiki.wiki.git
+      - name: Fetch remote branch
+        run: git fetch wiki master:master
+      - name: Checkout main branch
+        uses: actions/checkout@v2
+        with:
+          ref: main
+      - name: Rebase remote branch into main
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git rebase wiki/master -X ours
+      - name: Force Push
+        run: |
+          git push --force
