@@ -87,39 +87,36 @@ POSITION | RESPONSIBILITY
 ---------|---------
  HC/PHAC IT Security | Assess the magnitude of the security issue and respond as per procedures based on the severity of the incident.  <br><br>Respond to the generic Data Science email account (<datascience-sciencededonnees@phac-aspc.gc.ca>) if any action is being taken from a security perspective, if action should be taken by the ITAP Business Owners or administrators. <br><br>Actively work with the ITAP teams until incident is resolved and steps taken to mitigate a recurrence.
  PHAC System administrator(s) | Give the security _incident_ the time and focus it needs to resolve, govern and document.<br><br>Lead the activities to address the security incident document, review history, if a recurrence, communicate to appropriate groups, report updates, timeframes, status, resolution, lessons learned, actions taken to reduce / eliminate a recurrence.
+GCP administrator(s)|Informed to be aware of incident and take actions to avoid the same or similar security incidents.  
+PHAC Business Owner|Informed to be aware of incident and take actions to avoid the same or similar security incident.  
 
- A3 | B3
-
-GCP administrator(s):	Informed to be aware of incident and take actions to avoid the same or similar security incidents.  
-PHAC Business Owner	Informed to be aware of incident and take actions to avoid the same or similar security incident.  
-
-Pre-requisites
-Training must be provided appropriate to the role and level of access.
-System administrators must be cleared to the appropriate security level.
-Assumptions
-All personnel credentials will be verified, and security clearances confirmed, prior to being granted access to the system, and that the security clearance is commensurate with the level required to perform the assigned role.  Secret clearances are required for roles with elevated privileges.
-Sufficient resources will be available to maintain the system in accordance with this policy and the activities defined within.
-Discovery of a Security Incident
-Determine severity
-Take appropriate action 
-Call IT Sec, National Security Operations Center (NSOC)
-Unusual or adverse activity could be the first sign of a security incident. To report IT Security incidences, please contact the National Security Operations Centre (NSOC)
-For urgent matters: NSOC hotline at 613-957-1010 (NCR) or 1-888-333-6511 (regions)
-For non-urgent matters: NSOC email at: hc.securityopscenter-centreopssecurite.sc@hc-sc.gc.ca or use the desktop Service Gateway icon to access IT/IM services online.
-Invoke contact callout list
-HC/PHAC IT Security: itsecurity-tisecurite@hc-sc.gc.ca
-PHAC System administrator(s): john.bain@phac-aspc.gc.ca, keith.young@phac-aspc.gc.ca, michael.williamson@phac-aspc.gc.ca
-PHAC Business Owner: Data Management, Innovation and Analytics tim.allardyce@phac-aspc.gc.ca
-Initiate corrective actions as determined by NSOC, DTB IT Security or other applicable GC governing body (CSE/RCMP, CCCS (Canadian Centre for Cyber Security), etc.)
-In the event of an information spill, contact DTB IT Security and the NSOC immediately and initiate a recovery process 
-Post Incident Recovery
-Complete and forward report the product Owner
-Provide education as required to minimize further occurrences
-Identification and Authentication
-Accounts in the Google Cloud platform are currently manually created by staff on the DTB Google Cloud Platform team upon request from DMIA.
-Users logging in with these accounts are authenticated through Google’s native IAM controls. 
-By default, these accounts are simply identities, and have no permissions assigned.
-DMIA staff are responsible for assigning these identities appropriate roles on relevant projects.
-Members of the project team given the “Owner” role may add other users as required but cannot grant access outside the boundaries of that project.
-Administrator accounts require Multi-factor Authentication (MFA), the mode of which is determined by the user. The options are Duo Factor Authentication, Time-Based One-Time Password, or One Time Authentication SMS code.
+## Pre-requisites
+* Training must be provided appropriate to the role and level of access.
+* System administrators must be cleared to the appropriate security level.
+## Assumptions
+* All personnel credentials will be verified, and security clearances confirmed, prior to being granted access to the system, and that the security clearance is commensurate with the level required to perform the assigned role.  Secret clearances are required for roles with elevated privileges.
+* Sufficient resources will be available to maintain the system in accordance with this policy and the activities defined within.
+## Discovery of a Security Incident
+* Determine severity
+* Take appropriate action 
+* Call IT Sec, National Security Operations Center (NSOC)
+   * Unusual or adverse activity could be the first sign of a security incident. To report IT Security incidences, please contact the National Security Operations Centre (NSOC)
+   * For urgent matters: NSOC hotline at 613-957-1010 (NCR) or 1-888-333-6511 (regions)
+   * For non-urgent matters: NSOC email at: hc.securityopscenter-centreopssecurite.sc@hc-sc.gc.ca or use the desktop Service Gateway icon to access IT/IM services online.
+* Invoke contact callout list
+* HC/PHAC IT Security: itsecurity-tisecurite@hc-sc.gc.ca
+* PHAC System administrator(s): john.bain@phac-aspc.gc.ca, keith.young@phac-aspc.gc.ca, michael.williamson@phac-aspc.gc.ca
+* PHAC Business Owner: Data Management, Innovation and Analytics tim.allardyce@phac-aspc.gc.ca
+* Initiate corrective actions as determined by NSOC, DTB IT Security or other applicable GC governing body (CSE/RCMP, CCCS (Canadian Centre for Cyber Security), etc.)
+* In the event of an information spill, contact DTB IT Security and the NSOC immediately and initiate a recovery process 
+## Post Incident Recovery
+* Complete and forward report the product Owner
+* Provide education as required to minimize further occurrences
+## Identification and Authentication
+* Accounts in the Google Cloud platform are currently manually created by staff on the DTB Google Cloud Platform team upon request from DMIA.
+* Users logging in with these accounts are authenticated through Google’s native IAM controls. 
+* By default, these accounts are simply identities, and have no permissions assigned.
+* DMIA staff are responsible for assigning these identities appropriate roles on relevant projects.
+* Members of the project team given the “Owner” role may add other users as required but cannot grant access outside the boundaries of that project.
+* Administrator accounts require Multi-factor Authentication (MFA), the mode of which is determined by the user. The options are Duo Factor Authentication, Time-Based One-Time Password, or One Time Authentication SMS code.
 
