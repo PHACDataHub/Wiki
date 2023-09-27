@@ -1,6 +1,6 @@
 # Access Policy
-Document describing the types of privileged access that PHAC (Public Health Agency of Canada) will allow including R&R's between platform team and tenant teams. Document describing the JIT authorization approach, processes, and target implementation. (PHAC)
-##Base GCP Account (all users)
+
+## Base GCP Account (all users)
 All users (elevated or not) must have a GCP identity created.
 
 Currently this involves making a request for an account to be created.  The request is done in a “GCP Admin” chat channel in MS Teams and is actioned by HC.  They notify PHAC in the same channel when the creation is completed. This account will have no roles or permissions assigned to it at first.
