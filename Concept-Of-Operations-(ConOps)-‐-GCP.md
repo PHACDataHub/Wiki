@@ -74,7 +74,7 @@ Continuous Improvement: Google Cloud's Security Command Center provides insights
 ## Sdf
 Google Cloud Projects will be leveraged to form a security boundary around the Protected B data it processes and stores, utilizing GCP's robust security features to maintain the highest level of protection and integrity for the data.
 
-## Access (Non-Elevated Accounts)
+## Access Policy
 @TODO Blurb on access and identity management (offboarding?) JF has raised the want/need to verify clearance for new users to be at least reliability… How does this play when we are bringing guests into the tenant for rapid response things?  How does OICD sit in this?
 
 Current PHAC access management policy: [[GCP Access Policy|Policy-GCP-Access-Policy]]
