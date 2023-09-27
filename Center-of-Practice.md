@@ -30,7 +30,6 @@ The Public Health Data Center of Practice uses cloud computing services to store
 * [Github Code Spaces ](How-to-use-GitHub-Codespaces)
 
 ### Standards
-* [[Test]]
 * [[GKE Autopilot Reference Architecture]]
 * [[User Group Naming Standard]]
 * [[Project ID Naming Standard]]
