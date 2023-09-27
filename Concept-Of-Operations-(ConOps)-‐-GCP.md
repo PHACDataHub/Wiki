@@ -2,6 +2,20 @@
 
 ## Contents
 * [Purpose of the System](#purpose-of-the-system)
+* [Business Requirements](#business-requirements)
+* [Scope](#scope)
+* [Background](#background)
+* [Architecture Overview](#architecture-overview)
+* [Security Categorization](#security-categorization)
+* [Security ConOps](#security-conops)
+* [Project Boundary](#project-boundary)
+* [Access Policy](#access-policy)
+* [Monitoring](#monitoring)
+* [Incident Response](#incident-response)
+* [Prerequisites](#prerequisites)
+* [Assumptions](#assumptions)
+* [Discovery of a Security Incident](#discovery-of-a-security-incident)
+* [Post Incident Recovery](#post-incident-recovery)
 * [Identification and Authentication](#identification-and-authentication)
 
 ## Purpose of the System
@@ -75,7 +89,7 @@ This section details the relevant security operations of the GCP project base:
 **Incident Response and Recovery**: In the event of a security incident, GCP offers tools and features that enable swift detection, response, and recovery, minimizing potential impact.
 Continuous Improvement: Google Cloud's Security Command Center provides insights and analytics, enabling IT teams to continually improve their security posture by identifying potential vulnerabilities and taking proactive measures to eliminate them.
 
-## Sdf
+## Project Boundary
 Google Cloud Projects will be leveraged to form a security boundary around the Protected B data it processes and stores, utilizing GCP's robust security features to maintain the highest level of protection and integrity for the data.
 
 ## Access Policy
@@ -86,7 +100,7 @@ Current PHAC access management policy: [[GCP Access Policy|Policy-GCP-Access-Pol
 ## Monitoring
 Security relevant logs and metrics are automatically and transparently channelled to the Google’s centralized Security Command Center (SCC) service. DMIA staff have “Reader” access to SCC at the organization level, allowing them a view across all projects without needing to compromise the integrity of the “project” security boundary.
 
-## Incident response
+## Incident Response
 POSITION | RESPONSIBILITY
 ---------|---------
  HC/PHAC IT Security | Assess the magnitude of the security issue and respond as per procedures based on the severity of the incident.  <br><br>Respond to the generic Data Science email account (<datascience-sciencededonnees@phac-aspc.gc.ca>) if any action is being taken from a security perspective, if action should be taken by the ITAP Business Owners or administrators. <br><br>Actively work with the ITAP teams until incident is resolved and steps taken to mitigate a recurrence.
@@ -94,7 +108,7 @@ POSITION | RESPONSIBILITY
 GCP administrator(s)|Informed to be aware of incident and take actions to avoid the same or similar security incidents.  
 PHAC Business Owner|Informed to be aware of incident and take actions to avoid the same or similar security incident.  
 
-## Pre-requisites
+## Prerequisites
 * Training must be provided appropriate to the role and level of access.
 * System administrators must be cleared to the appropriate security level.
 ## Assumptions
