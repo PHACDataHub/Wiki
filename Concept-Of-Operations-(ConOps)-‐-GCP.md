@@ -1,5 +1,9 @@
 # Concept of Operations (ConOps) - Data Enablement project base
 
+## Contents
+* [Purpose of the System](#purpose-of-the-system)
+* [Identification and Authentication](#identification-and-authentication)
+
 ## Purpose of the System
 The DMIA Google Cloud account is used to provide data infrastructure and access to Googles first-party SaaS offerings to support the epidemiological and public health work of the agency.
 
