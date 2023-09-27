@@ -36,8 +36,8 @@ Should scoping matter for what service account names are in this table?  (I.e. d
 
 Infrastructure Service Account Name | Role(s) | Mapping/Notes
 ----------|----------|---------
-sccslacknotifs-sa@phx-01h7dnj5j46f52sev8akqd9m7g.iam.gserviceaccount.com|Security Centre Admin|This account will be replaced with a new one once the experiment is proven.<br><br>Mapped at DMIA folder.<br><br>Used to send alerts to Slack
-service-545088814898@gcp-sa-yakima.iam.gserviceaccount.com|Folder Creator<br><br>Folder Editor<br><br>Project Billing Manager<br><br>Project Creator<br><br>Project Deleter|Mapped at DMIA folder<br><br>GCP-created account that creates our infrastructure.<br><br>Going to work with Chris Carty to see about us replacing this with one named/defined by us.
+sccslackXXXXXX-sa@phx-projid.iam.gserviceaccount.com|Security Centre Admin|This account will be replaced with a new one once the experiment is proven.<br><br>Mapped at DMIA folder.<br><br>Used to send alerts to Slack
+service-xxxxxxxxxxx@gcp-sa-yakima.iam.gserviceaccount.com|Folder Creator<br><br>Folder Editor<br><br>Project Billing Manager<br><br>Project Creator<br><br>Project Deleter|Mapped at DMIA folder<br><br>GCP-created account that creates our infrastructure.<br><br>Going to work with Chris Carty to see about us replacing this with one named/defined by us.
 The JIT account needs to go here| |This will either be mapped at the DMIA folder, or near the org root depending on implementation (if HC wants to use it as well) ...
 Should the alphadns SA (Service Account) go here?| | 
 
