@@ -68,7 +68,101 @@ After conversations yesterday, Jia mentioned that VMs in GCP can be converted to
 Connect to a supported on-premises hosted VM.
 Deploy and connect to a cloud-hosted VM."
 
-If none of these are viable ^^^^ then a _subsidized_, BYOD environment would be the best. My home tower is probably cheaper for me to procure and would take less time to hit the ground running than waiting for a 10 year study and getting something underpowered/unusable.
+If none of these are viable ^^^^ then a _subsidized_, BYOD environment would be the best. My home tower is probably cheaper for me to procure and would take less time to hit the ground running than waiting for a 10 year study and getting something underpowered/unusable or
+
+https://store.minisforum.com/collections/amd-%C2%AE-ryzen-%C2%AE/products/elitemini-hx90g?variant=44023099228405
+
+
+Neptune HX77G/HX99G/HX80G
+
+Sale price USD $879.00
+Neptune Series HX99G is powered by AMD Ryzen™ 9 6900HX and AMD Radeon™ RX 6600M
+Minisforum HX99G
+
+Processor
+
+AMD Ryzen™ 9 6900HX, 8 Cores/16 Threads
+(Total L2 Cache 4MB , Total L3 Cache 16MB , Base Clock 3.3 GHz , up to 4.9 GHz)
+
+GPU
+
+AMD Radeon™ RX 6600M(GDDR6 8GB)
+
+Memory
+
+DDR5 Dual channel (SODIMM Slots×2)
+
+Supports a maximum of 64GB (32GB x 2) of DDR5
+
+Storage
+
+M.2 2280 PCIe4.0 SSD (up to 2TB)
+
+Storage Expansion
+
+M.2 2280 SSD Slot (Support NGFF SATA or NVMe PCIe4.0 SSD)
+
+Wireless Connectivity
+
+M.2 2230 WIFI Support (Wi-Fi 6，BlueTooth 5.2)
+
+Video Output
+
+① HDMI (4K@60Hz) ×2
+
+② USB4 (8K@60Hz)×2
+
+Audio Output
+
+HDMI ×2, Headphone Jack ×1
+
+Ports & Buttons
+
+RJ45 2.5 Gigabit Ethernet Port ×1
+USB3.2 Gen1 Type-A Port ×1 (Front)
+USB3.2 Gen1 Type-C Port ×1 (Front)
+USB3.2 Gen1 Type-A Port ×2 (Rear)
+USB3.2 Gen2 Type-A Port ×1 (Rear)
+USB4 Type-C Port ×2
+HDMI ×2
+Clear CMOS ×1
+Microphone Jack ×1
+Headphone Jack ×1
+
+Power
+
+DC 19V (Adapter Included)
+
+System
+
+Windows 11
+
+Product Dimension
+
+205*203*69.3 (mm) / 8.07*7.99*2.73 (inch)
+
+Package Dimension
+
+233*233*160 (mm) / 9.17*9.17*6.3 (inch)
+
+Net Weight
+
+1.21 kg (2.67 lbs)
+
+Package Weight
+
+2.72 kg (6 lbs)
+
+Package Content
+
+HX99G × 1
+Power Adapter × 1
+Power Cable × 1
+HDMI Cable × 1
+Base Support Frame × 1
+Base Bottom Plate × 1
+Technical Documents × 1
+Mounting Screw Set × 1
 ***
 
 ## Bainers Bargain
