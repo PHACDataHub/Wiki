@@ -19,7 +19,7 @@
 
  | Category | Director | Manager | Team Lead | Product Owner | Architect | Team Member | Scrum Master/Agile Coach |
  | -- | -- | -- | -- | -- | -- | -- | -- |
- |Approve Product/Service | A | R | C | C | C | C | C | I |
+ |Approve Product/Service | A | R | C | C | C | C | I | 
 
 
 <!--EndFragment-->
