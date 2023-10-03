@@ -17,9 +17,8 @@
 
 <!--StartFragment-->
 
- | Role | Create PBI (Epic, Feature, User Story | Manage Sprint Backlog | Estimate Work Items | Create and manage Tasks | Approve Products/Services |
- | -- | -- | -- | -- | -- | -- | 
- | Product Owner | R | C | C | I | C
+ | Category | Manager  | Product Owner | Architect | Team Member |
+
 
 <!--EndFragment-->
 
