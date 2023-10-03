@@ -3,7 +3,6 @@
 <!--StartFragment-->
 
 Role | Responsibilities
-***
 
 -- | --
 Scrum Master | Coach team members in self-management. Assist development team focus on creating. Increments adhering to the Definition of Done Help with removal of impediments impacting Scrum Team’s progress. Enable Scrum events and ensure they are time boxed. Assist Product Owner with Product Backlog management. Facilitate collaborations as requested/needed
