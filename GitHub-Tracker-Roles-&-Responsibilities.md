@@ -17,7 +17,7 @@
 
 <!--StartFragment-->
 
- | Category | Manager  | Product Owner | Architect | Team Member | Scrum Master/Agile Coach
+ | Category | Manager  | Product Owner | Architect | Team Member | Scrum Master/Agile Coach |
  Approve Product/Service  | R | C | C | C | I | 
 
 
