@@ -22,7 +22,12 @@
  | Category | Director | Manager | Team Lead | Product Owner | Architect | Team Member | Scrum Master/Agile Coach |
  | -- | -- | -- | -- | -- | -- | -- | -- |
  |Approve Product/Service | A | R | C | C | C | C | I | 
-
+ |Create PBI (Epic, Feature, User Story) | I | I | C | R | A | A | I | 
+ |Maintain GitHub Repository | I | I | C | R | C | C | C | 
+ |Update PBI's| I | I | I | C | R | R | I | 
+ |Manage Sprint Backlog  | I | I | C | C | R | R | I | 
+ |Liaise with Other Entities  | I | I | R | C | R | C | I |
+ |Provide Architectural, Security Guidance  | I | C | I | I | R | C | I |
 
 <!--EndFragment-->
 
