@@ -1,6 +1,7 @@
 <html>
 <body>
 <!--StartFragment-->
+
  | Category  | Role | Role Definition |
  | --- | ---| --- | --- |
  | --- | Product Owner | Develop, communicate and manage product goal. Create and communicate Product Backlog items (This can be done in discussion with the team). Order and prioritize backlog items. Ensure transparency and clarity of Product Backlog. Product Owner will work with the Architects and create Epics in the GitHub repository. Create the required Features belonging to the epics, in discussion with the teams, architects as applicable
