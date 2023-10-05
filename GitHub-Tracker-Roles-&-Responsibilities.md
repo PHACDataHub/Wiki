@@ -31,13 +31,18 @@
  |Liaise with Other Entities  | I | I | R | C | R | C | I |
  |Provide Architectural, Security Guidance  | I | C | I | I | R | C | I |
 
-Legend
-R = Responsible
-A = Accountable
-C = Consulted
-I = Informed
 
 <!--EndFragment-->
+
+Legend
+
+R = Responsible
+
+A = Accountable
+
+C = Consulted
+
+I = Informed
 
 </body>
 </html>
