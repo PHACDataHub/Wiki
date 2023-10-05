@@ -34,15 +34,19 @@
 
 <!--EndFragment-->
 
-Legend
+<!--StartFragment-->
 
-R = Responsible
+**RACI Legend**
 
-A = Accountable
+| RACI Role | Definition |
+| -- | -- 
+|R = Responsible |  Does the work to complete the task. |
+|A = Accountable | Delegates work and is the the last one to review the task or deliverable before it's deemed complete. |
+|C = Consulted | Provides input based on how it will impact their project work or their domain of expertise on the deliverable itself. |
+|I = Informed  | Needs to be kept in the loop on project progress, rather than roped into details of every deliverable. |
 
-C = Consulted
 
-I = Informed
+<!--EndFragment-->
 
 </body>
 </html>
