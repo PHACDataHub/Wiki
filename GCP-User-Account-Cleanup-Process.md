@@ -1,6 +1,6 @@
 # Overview
 
-The **User Account Cleanup Protocol** is instituted to maintain the security and efficiency of our systems. This protocol offers clarity and structure to the process of managing inactive and unused accounts, ensuring that only active users have access.
+The **User Account Cleanup Process** is instituted to maintain the security and efficiency of our systems. This protocol offers clarity and structure to the process of managing inactive and unused accounts, ensuring that only active users have access.
 
 ## How it Works
 
