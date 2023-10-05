@@ -55,6 +55,7 @@ The Public Health Data Center of Practice uses cloud computing services to store
 ### Processes
 * [Business Intake Processes](Intake-Processes)
 * [[GCP Project on-boarding process]]
+* [[GCP User Account Cleanup Process]]
 
 ### Documents 
 
