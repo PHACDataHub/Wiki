@@ -39,7 +39,7 @@
 **RACI Legend**
 
 | RACI Role | Definition |
-| -- | -- 
+| --- | ---
 |R = Responsible |  Does the work to complete the task. |
 |A  = Accountable  | Delegates work and is the the last one to review the task or deliverable before it's deemed complete. |
 |C = Consulted | Provides input based on how it will impact their project work or their domain of expertise on the deliverable itself. |
