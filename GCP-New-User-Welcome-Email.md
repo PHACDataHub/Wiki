@@ -8,7 +8,7 @@ As part of the onboarding process, we have created an account for you on GCP, an
 
 Here are the steps to get started:
 
-1. **Choose a Multifactor Authentication App**: When you first enable your account, please select a multifactor authentication app such as [List of recommended apps, e.g., Google Authenticator or Microsoft Authenticator] from your device's app store. We strongly recommend against using SMS or email for authentication.
+1. **Choose a Multifactor Authentication App**: When you first enable your account, please select a multifactor authentication app such as [List of recommended apps, e.g., Google Authenticator or Microsoft Authenticator] from your device's app store. _**We strongly recommend against using SMS or email for authentication**_.
 
 2. **YubiKey Issuance**: We will also issue you a YubiKey, which will become your primary MFA mechanism. To ensure a smooth process, we need the following information:
 
