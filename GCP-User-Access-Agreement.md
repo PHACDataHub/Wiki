@@ -1,4 +1,4 @@
-# User Agreement for Accessing [Your Company Name]'s Online Resources
+# User Agreement for Accessing PHAC's GCP Resources
 
 Hello!
 
