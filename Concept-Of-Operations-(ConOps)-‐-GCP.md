@@ -96,7 +96,7 @@ Google Cloud Projects will be leveraged to form a security boundary around the P
 @TODO Blurb on access and identity management (offboarding?) JF has raised the want/need to verify clearance for new users to be at least reliability… How does this play when we are bringing guests into the tenant for rapid response things?  How does OICD sit in this?
 
 Current PHAC access management policy: [[GCP Access Policy|Policy-GCP-Access-Policy]]
-
+Current PHAC User Access Agreement: [[GCP User Access Agreement|GCP-User-Access-Agreement]]
 ## Monitoring
 Security relevant logs and metrics are automatically and transparently channelled to the Google’s centralized Security Command Center (SCC) service. DMIA staff have “Reader” access to SCC at the organization level, allowing them a view across all projects without needing to compromise the integrity of the “project” security boundary.
 
