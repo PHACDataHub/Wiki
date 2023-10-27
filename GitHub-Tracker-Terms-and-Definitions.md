@@ -5,7 +5,7 @@
 Hierarchy | Description
 -- | --
 Cornerstone | The Cloud Infrastructure for Public Health Intelligence is realized through the integration of essential components from DPI's foundational workpieces.
-Product | A means to provide value, whether it's a service, a tangible product, or something more conceptual.
+Product | A means to provide value, and can be a service, a tangible product, or something more conceptual.
 Epic | A substantial amount of work that can be subdivided into numerous smaller tasks.
 Feature | Collection of user stories that represent functionality that stakeholders will use.
 User Story | Short requirements or requests written from the perspective of an end user.
