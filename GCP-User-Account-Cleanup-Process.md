@@ -14,8 +14,8 @@ The **User Account Cleanup Process** is instituted to maintain the security and 
     - Accounts that remain suspended for an additional 30 days (totalling 120 days since last login) are deleted.
     
 ### Users Who Have Left:
-    - Accounts belonging to users who have officially left the organization will be immediately suspended.
-    - These accounts will follow the normal stages of account cleanup as detailed above.
+- Accounts belonging to users who have officially left the organization will be immediately suspended.
+- These accounts will follow the normal stages of account cleanup as detailed above.
 
 ### Procedure:
 
