@@ -12,6 +12,9 @@ For those who can accommodate their VMs shutting down periodically, setting a sc
 By designating runtime boundaries, you can prevent extended, unintended resource consumption.
 - **Guide:** Familiarize yourself with [how to limit VM runtime via Google's instructions](https://cloud.google.com/compute/docs/instances/limit-vm-runtime?authuser=1).
 
+### 3. Migrate Away from VMs  
+Consider replacing a VM with a non-VM service. Upgrading to more precise compute technology can ensure we utilize only the necessary resources, offering enhanced efficiency and potentially better performance for certain tasks.
+
 > **Note:** If your experimentation requires VMs to remain constantly active, please feel free to continue as you are. We recognize and appreciate the diverse VM usage patterns within our community.
 
 To delve deeper into our evolving Experimentation service and understand these VM recommendations, please visit our [Experimentation Offering Wiki](https://github.com/PHACDataHub/Wiki/wiki/Experimentation-Offering).
