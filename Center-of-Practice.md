@@ -22,6 +22,9 @@ The Public Health Data Center of Practice uses cloud computing services to store
 
 ## Technology, Standards, Policies, Processes, Documents and Templates
 
+### Public Service Announcements
+* [[Green VM Guidelines: Eco-friendly and Cost-Saving Tips for Users]]
+
 ### Tutorials
 * [[Setting up a Yubikey]]
 * [[Setting up virtual workstation in GCP]]
