@@ -16,6 +16,19 @@ By designating runtime boundaries, you can prevent extended, unintended resource
 
 To delve deeper into our evolving Experimentation service and understand these VM recommendations, please visit our [Experimentation Offering Wiki](https://github.com/PHACDataHub/Wiki/wiki/Experimentation-Offering).
 
+### Recommended Settings for VMs
+
+To align with our suggested best practices and enhance resource efficiency, we recommend the following settings for your VMs:
+
+1. **Scheduled VM Shutdown:**  
+   - Set your VMs to automatically shut down at **6pm EST** every day. This ensures we maximize usage during core hours and minimize waste during off-hours.
+   
+2. **Auto Shutdown Duration:**  
+   - Configure your VMs to automatically shut down after **4 hours** of inactivity. This helps in conserving resources and avoiding extended, unintentional VM runtimes.
+
+Applying these settings will aid in ensuring both cost-effectiveness and eco-friendliness. For step-by-step guidance on how to implement these settings, please refer to the provided guides above.
+
+
 ### Need Assistance?  
 We're here to help! If you have questions, require guidance, or need someone to walk you through the VM optimization steps, please reach out to our dedicated team through our [Cloud Support page](https://github.com/PHACDataHub/Wiki/wiki/Cloud-Support).
 
