@@ -13,8 +13,9 @@ By designating runtime boundaries, you can prevent extended, unintended resource
 - **Guide:** Familiarize yourself with [how to limit VM runtime via Google's instructions](https://cloud.google.com/compute/docs/instances/limit-vm-runtime?authuser=1).
 
 ### 3. Migrate Away from VMs  
-Consider the potential of replacing a VM with a containerized solution. Containers offer a lightweight, scalable, and versatile alternative to traditional VMs, allowing for optimized resource utilization. While the following guide focuses on Microsoft's Azure, many of its principles and insights apply to Google Cloud as well:
-- **Guide:** Dive into this [Lift and Shift to Containers article](https://learn.microsoft.com/en-us/virtualization/windowscontainers/quick-start/lift-shift-to-containers) for insights into what can be containerized and how to make the transition.
+Consider the potential of replacing a VM with a containerized solution. Containers offer a lightweight, scalable, and versatile alternative to traditional VMs, allowing for optimized resource utilization. For an in-depth understanding of containers and how they can benefit your workloads, explore Google Cloud's guide:
+- **Guide:** Check out [What are Containers?](https://cloud.google.com/learn/what-are-containers?authuser=1) by Google Cloud to grasp the concept and advantages of containerization.
+
 
 
 > **Note:** If your experimentation requires VMs to remain constantly active, please feel free to continue as you are. We recognize and appreciate the diverse VM usage patterns within our community.
