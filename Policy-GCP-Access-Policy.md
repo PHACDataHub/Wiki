@@ -7,6 +7,9 @@ Currently this involves making a request for an account to be created.  The requ
 
 The same above step is used for password resets or if an account has to be recreated due to MFA issues.
 
+### Password Policy
+All GCP identities use a password policy that aligns with current Health Canada password policies. The HC GCP team controls this. PHAC uses whatever settings HC is using.
+
 ## YubiKey
 * All PHAC users that have GCP identities will be issued a YubiKey to have hardware-based MFA.
 * Staff provisions a security key to the user using Yubico Enterprise Delivery Portal.
