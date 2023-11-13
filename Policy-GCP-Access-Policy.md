@@ -40,6 +40,7 @@ All GCP identities use a password policy that aligns with current Health Canada 
 ## Service accounts
 * Service accounts are a major part of GCP architecture.  There will be far too many to list in a document like this.
 * Service accounts can be identified because they end with "gserviceaccount.com" domain.
+* All service accounts start with no permissions, and thus are "least privilege" to start.
 * Using the built-in logging/auditing tools all service accounts can be reviewed.
 ## Auditing / Logging
 * All resources in GCP are subject to being logged.  
