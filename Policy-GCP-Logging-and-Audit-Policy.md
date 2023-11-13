@@ -6,6 +6,7 @@ The Google Cloud Platform's Security Command Centre (SCC) provides an integrated
 * The PHAC GCP infrastructure team will have access to all entries in SCC within the DMIA portion of the tenant.  Health Canada is responsible for everything else.
 * Additionally, HC can consume logs from within the DMIA portion of the tenant to allow a more holistic view of the current state.
 * There is likely going to be a mechanism that sends some events to MS Sentinel in Azure per what HC Security wants.  This is beyond the scope of the PHAC infrastructure team to handle.
+* Work is being started on incorporating CCCS cloud sensors as well.
 ## Infrastructure-Team Owned Template-Based Applications
 Example: A template that spins up Vertex + storage bucket for a finite time for processing and is then destroyed when done.  The client owns the input and output, but not the infrastructure in this scenario.
 * This is covered in the Org-scale section above.
