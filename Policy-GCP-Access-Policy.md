@@ -14,8 +14,9 @@ The same above step is used for password resets or if an account has to be recre
 * We should investigate if it is possible to have SMS/Email turned off in the tenant as an option.
    * This may only be possible if we get our own org to manage in the tenant due to HC having it on for all users at the moment.
 ## Non-Elevated Accounts
-* Normal users will have Owner or Editor roles on a given project.
-##Elevated Accounts
+* In Experimentation: Normal users will have Owner or Editor roles on a given project.
+* In Operations:  Normal users will not have privileges to create anything.  They will likely be limited to view, or a custom role that would allow them to upload/download data to work with a system in operations (dev/test/prod).
+## Elevated Accounts
 * At the moment elevated accounts are created with the following format: “admin.fname.lname@gcp.hc-sc.gc.ca”
 * Elevated permissions are negotiated with HC as needed.
 * Future:  We intend to move to a JIT access model.  Where the elevated accounts will elevate themselves as needed for limited amounts of time.
@@ -41,18 +42,7 @@ service-xxxxxxxxxxx@gcp-sa-yakima.iam.gserviceaccount.com|Folder Creator<br><br>
 The JIT account needs to go here| |This will either be mapped at the DMIA folder, or near the org root depending on implementation (if HC wants to use it as well) ...
 Should the alphadns SA (Service Account) go here?| | 
 
-
-## Attic (delete when no longer needed)
-* Access to a Google Cloud Project requires the following steps for a new account:
-* A request for access comes to DE staff through project teams or the project intake team
-* DE staff provisions a security key to the user using Yubico Enterprise Delivery Portal.
-* DE staff requests DTB staff to create an IAM account.
-* DTB staff creates an IAM account with no roles or permissions.
-* DE staff assigns that identity an appropriate role on the relevant project.
-* For an existing account, DMIA are able to assign new roles and permissions upon request.
-
-* Normal users will have Owner or Editor roles on a given project.
-   * In the Experiment projects we use IaC (Infrastructure as Code) with IAMPartialPolicy so that the project owners can add and remove uses as needed.
-   * In Non-Experiment projects we will need to do explicit mapping as our intention is to use IAMPolicy (looking at IAMPolicy, we may need to keep using IAMPartialPolicy if we use kpt pkg for creation of different add-ins - TBD) forcing everything (including service accounts) to be pre-defined.
-      * How will we allow for adding/removing of users in a way that will not involve the infrastructure team having to intervene?
-
+## Auditing / Logging
+* All resources in GCP are subject to being logged.  
+* Security Command Centre is used to view current security state.  It can be scoped in many ways as needed.
+* @TODO: What alerts are needed?
