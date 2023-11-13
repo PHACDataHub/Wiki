@@ -102,6 +102,8 @@ Current PHAC User Access Agreement: [[GCP User Access Agreement|GCP-User-Access-
 ## Monitoring
 Security relevant logs and metrics are automatically and transparently channelled to the Google’s centralized Security Command Center (SCC) service. DMIA staff have “Reader” access to SCC at the organization level, allowing them a view across all projects without needing to compromise the integrity of the “project” security boundary.
 
+Current Auditing and Logging Policy: [[GCP Logging and Audit Policy|Policy-GCP-Logging-and-Audit-Policy]]
+
 ## Incident Response
 POSITION | RESPONSIBILITY
 ---------|---------
