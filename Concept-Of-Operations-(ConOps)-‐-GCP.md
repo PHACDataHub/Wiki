@@ -83,7 +83,9 @@ This section details the relevant security operations of the GCP project base:
 **Data Protection**: All data within the GCP is encrypted at rest by default with no customer action required. Encryption in transit is enforced for all data outside Google’s physical security boundary, and CCCS has evaluated the security of the Google Cloud Platform as appropriate for Protected B. Additional measures will be applied as appropriate at the project level.
 
 **Monitoring and Auditing**: All logs from services running within GCP projects are visible at the organization level and will be monitored by DMIA staff with that access. Google provides several tools for real-time monitoring and logging, like Google Cloud Audit Logs and Google Cloud Monitoring. These allow for continuous oversight of the system's health and activity, identifying and alerting about potential security threats.
+
 Current Auditing and Logging Policy: [[GCP Logging and Audit Policy|Policy-GCP-Logging-and-Audit-Policy]]
+
 **Security Compliance**: GCP's security infrastructure is compliant with major certifications and regulations, ensuring it aligns with the best practices and requirements set forth by established standards.
 
 **Incident Response and Recovery**: In the event of a security incident, GCP offers tools and features that enable swift detection, response, and recovery, minimizing potential impact.
