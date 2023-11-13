@@ -38,16 +38,9 @@ All GCP identities use a password policy that aligns with current Health Canada 
    * In the Experiment space the above rule is loosened to allow Owners of a project to explicitly add and remove users via the GCP Console.
    * In non-experiment space the only way to add/remove identities will be via IaD.  This includes Service Accounts.
 ## Service accounts
-Should scoping matter for what service account names are in this table?  (I.e. does it make sense for the alphadns SA (Service Account) to be in this table if it is only scoped to the alphadns project? I would say it does not need to be here) ….
-
-
-Infrastructure Service Account Name | Role(s) | Mapping/Notes
-----------|----------|---------
-sccslackXXXXXX-sa@phx-projid.iam.gserviceaccount.com|Security Centre Admin|This account will be replaced with a new one once the experiment is proven.<br><br>Mapped at DMIA folder.<br><br>Used to send alerts to Slack
-service-xxxxxxxxxxx@gcp-sa-yakima.iam.gserviceaccount.com|Folder Creator<br><br>Folder Editor<br><br>Project Billing Manager<br><br>Project Creator<br><br>Project Deleter|Mapped at DMIA folder<br><br>GCP-created account that creates our infrastructure.<br><br>Going to work with Chris Carty to see about us replacing this with one named/defined by us.
-The JIT account needs to go here| |This will either be mapped at the DMIA folder, or near the org root depending on implementation (if HC wants to use it as well) ...
-Should the alphadns SA (Service Account) go here?| | 
-
+* Service accounts are a major part of GCP architecture.  There will be far too many to list in a document like this.
+* Service accounts can be identified because they end with "gserviceaccount.com" domain.
+* Using the built-in logging/auditing tools all service accounts can be reviewed.
 ## Auditing / Logging
 * All resources in GCP are subject to being logged.  
 * Security Command Centre is used to view current security state.  It can be scoped in many ways as needed.
