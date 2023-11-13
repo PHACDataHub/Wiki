@@ -14,4 +14,4 @@ Example: A template that spins up Vertex + storage bucket for a finite time for 
 * Individual projects will be responsible for logging in their own application (assuming a custom application of some sort).  How this works is TBD per project.
 * All projects will be able to use SCC to view security-data about their applications.
 ## Incident Response
-* @TODO:  Didn't we identify this somewhere else?
+* [[Incident Response|Concept-Of-Operations-(ConOps)-‐-GCP#discovery-of-a-security-incident]]
