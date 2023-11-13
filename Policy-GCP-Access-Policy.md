@@ -13,6 +13,9 @@ The same above step is used for password resets or if an account has to be recre
 * Users are encouraged to use an authenticator app as their back-up.
 * We should investigate if it is possible to have SMS/Email turned off in the tenant as an option.
    * This may only be possible if we get our own org to manage in the tenant due to HC having it on for all users at the moment.
+### Lost or Stolen YubiKey
+* Users should report a lost or stolen YubiKey as soon as possible.
+*  The action taken will be to remove the YubiKey association from the user' GCP identity, and they will have to use the authentication app until a new YubiKey is issued.
 ## Non-Elevated Accounts
 * In Experimentation: Normal users will have Owner or Editor roles on a given project.
 * In Operations:  Normal users will not have privileges to create anything.  They will likely be limited to view, or a custom role that would allow them to upload/download data to work with a system in operations (dev/test/prod).
