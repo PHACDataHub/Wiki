@@ -43,6 +43,7 @@ All GCP identities use a password policy created at the org level of the tenant.
 
 ## YubiKey
 * All PHAC users that have GCP identities will be issued a YubiKey to have hardware-based MFA.
+* All YubiKeys issued are permanently issued to the user, and can be used for more than just GCP MFA.  Users are encouraged to use them for greater personal online security.  There is no returning the key to PHAC once it is issued.
 * Staff provisions a security key to the user using Yubico Enterprise Delivery Portal.
 * Users are encouraged to use an authenticator app as their back-up.
 * We should investigate if it is possible to have SMS/Email turned off in the tenant as an option.
