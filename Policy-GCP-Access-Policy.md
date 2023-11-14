@@ -34,7 +34,7 @@ This policy shall be reviewed annually.
 ## Base GCP Account (all users)
 All users (elevated or not) must have a GCP identity created.
 
-Currently this involves making a request for an account to be created.  The request is done in a “GCP Admin” chat channel in MS Teams and is actioned by HC.  They notify PHAC in the same channel when the creation is completed. This account will have no roles or permissions assigned to it at first.
+Currently this involves making a request to HC/DTB for an account to be created.  The request is done in a “GCP Admin” chat channel in MS Teams and is actioned by HC.  They notify PHAC in the same channel when the creation is completed. This account will have no roles or permissions assigned to it at first.
 
 The same above step is used for password resets or if an account has to be recreated due to MFA issues.
 
