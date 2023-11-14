@@ -17,6 +17,19 @@ This Access Policy establishes guidelines for managing Google Cloud Platform (GC
 ### Review
 This policy shall be reviewed annually.
 
+## Roles and Responsibilities
+| Role | Responsibility | Additional Notes
+|----------------------------------------|-----------------------|---|
+| Identity Creation                      | GCP Admin at HC / DTB ||
+| Elevated Account provisioning          | GCP Admin at HC / DTB                    ||
+| GCP Account Management (IAM)           | ...                   ||
+| Permission Mapping for Identities (Project Level)     | ...                   ||
+| Service Account management (Project Level)            | ...                   ||
+| Access Review                          | ...                   ||
+| YubiKey provisioning                   | PHAC Infrastructure Team                   ||
+| Maintenance IaD / IaC                  | ...                   ||
+
+
 ## Base GCP Account (all users)
 All users (elevated or not) must have a GCP identity created.
 
