@@ -29,8 +29,6 @@ This policy shall be reviewed annually.
 | Service Account management (Project Level)            | handled by individual project ||
 | Access Review                          | Both PHAC and HC | HC generates reports on account usage, and flags accounts for handling that are not being used.  If PHAC is aware of a reason to change an identity's status (i.e. user left PHAC), then HC is informed in an Administrative chat PHAC and HC share. |
 | YubiKey provisioning                   | PHAC Infrastructure Team                   ||
-| Maintenance IaD / IaC                  | ...                   ||
-
 
 ## Base GCP Account (all users)
 All users (elevated or not) that wish to use GCP must have a GCP identity created.  All users with a valid PHAC email address can request an identity for GCP.
