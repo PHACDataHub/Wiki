@@ -63,6 +63,7 @@ All GCP identities use a password policy created at the org level of the tenant.
 * Accounts are currently reviewed manually by DTB. The interval is not yet known to the DE team.
 * DE delegates access review to the project teams. 
 * Least privilege is automatically evaluated for all accounts via IAM reccomender.
+* Notification to HC/DTB of a change of status to a user's identity (i.e. they leave the Agency) is done via the group admin chat we share with them.
 
 ## GCP Cloud Shell / Cloud Console
 * All users have access to the Google Cloud Shell/Console.  They are limited in what they can do by the inherent security-trimming in GCP.
