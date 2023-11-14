@@ -39,7 +39,7 @@ Currently this involves making a request to HC/DTB for an account to be created.
 The same above step is used for password resets or if an account has to be recreated due to MFA issues.
 
 ### Password Policy
-All GCP identities use a password policy that aligns with current Health Canada password policies. The HC GCP team controls this. PHAC uses whatever settings HC is using.
+All GCP identities use a password policy created at the org level of the tenant. The HC GCP team controls this. PHAC uses whatever settings HC is using.
 
 ## YubiKey
 * All PHAC users that have GCP identities will be issued a YubiKey to have hardware-based MFA.
@@ -50,6 +50,7 @@ All GCP identities use a password policy that aligns with current Health Canada 
 ### Lost or Stolen YubiKey
 * Users must report a lost or stolen YubiKey as soon as possible.
 *  The action taken will be to remove the YubiKey association from the user' GCP identity, and they will have to use the authentication app until a new YubiKey is issued.
+* PHAC Infrastructure team will notify HC/DTB GCP team in the shared admin chat what identity needs to have the YubiKey disassociated.  HC will remove the YubiKey and notfiy PHAC in the admin channel when it is completed.
 ## Non-Elevated Accounts
 * In Experimentation: Normal users will have Owner or Editor roles on a given project.
 * In Operations:  Normal users will not have privileges to create anything.  They will likely be limited to view, or a custom role that would allow them to upload/download data to work with a system in operations (dev/test/prod).
