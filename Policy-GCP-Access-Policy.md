@@ -15,7 +15,7 @@
 This Access Policy establishes guidelines for managing Google Cloud Platform (GCP) accounts within our organization. It covers the creation and management of both standard and elevated accounts, emphasizing security through multi-factor authentication with YubiKey, adherence to password policies, and the principle of least privilege. Designed to maintain secure and efficient access to our cloud resources, this policy aligns with our organizational security standards and regulatory compliance, ensuring a consistent and secure approach to our GCP infrastructure management.
 
 ### Review
-* This policy shall be reviewed annually.
+This policy shall be reviewed annually.
 
 ## Base GCP Account (all users)
 All users (elevated or not) must have a GCP identity created.
