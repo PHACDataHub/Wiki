@@ -112,13 +112,13 @@ POSITION | RESPONSIBILITY
 GCP administrator(s)|Informed to be aware of incident and take actions to avoid the same or similar security incidents.  
 PHAC Business Owner|Informed to be aware of incident and take actions to avoid the same or similar security incident.  
 
-## Prerequisites
+### Prerequisites
 * Training must be provided appropriate to the role and level of access.
 * System administrators must be cleared to the appropriate security level.
-## Assumptions
+### Assumptions
 * All personnel credentials will be verified, and security clearances confirmed, prior to being granted access to the system, and that the security clearance is commensurate with the level required to perform the assigned role.  Secret clearances are required for roles with elevated privileges.
 * Sufficient resources will be available to maintain the system in accordance with this policy and the activities defined within.
-## Discovery of a Security Incident
+### Discovery of a Security Incident
 * Determine severity
 * Take appropriate action 
 * Call IT Sec, National Security Operations Center (NSOC)
@@ -131,7 +131,7 @@ PHAC Business Owner|Informed to be aware of incident and take actions to avoid t
 * PHAC Business Owner: Data Management, Innovation and Analytics tim.allardyce@phac-aspc.gc.ca
 * Initiate corrective actions as determined by NSOC, DTB IT Security or other applicable GC governing body (CSE/RCMP, CCCS (Canadian Centre for Cyber Security), etc.)
 * In the event of an information spill, contact DTB IT Security and the NSOC immediately and initiate a recovery process 
-## Post Incident Recovery
+### Post Incident Recovery
 * Complete and forward report the product Owner
 * Provide education as required to minimize further occurrences
 ## Identification and Authentication
@@ -141,4 +141,8 @@ PHAC Business Owner|Informed to be aware of incident and take actions to avoid t
 * DMIA staff are responsible for assigning these identities appropriate roles on relevant projects.
 * Members of the project team given the “Owner” role may add other users as required but cannot grant access outside the boundaries of that project.
 * Administrator accounts require Multi-factor Authentication (MFA), the mode of which is determined by the user. The options are Duo Factor Authentication, Time-Based One-Time Password, or One Time Authentication SMS code.
+## FinOps
+* Budgets are set for all projects.
+* Alerts are set for all projects at 50%, 75%, and 90% levels
+* @TODO: Outline more?
 
