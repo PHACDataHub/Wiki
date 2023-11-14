@@ -1,5 +1,16 @@
 # Access Policy
-
+## Table of Contents
+- [Introduction](#introduction)
+- [Base GCP Account (all users)](#base-gcp-account-all-users)
+- [YubiKey](#yubikey)
+  - [Lost or Stolen YubiKey](#lost-or-stolen-yubikey)
+- [Non-Elevated Accounts](#non-elevated-accounts)
+- [Elevated Accounts](#elevated-accounts)
+- [Access Reviews](#access-reviews)
+- [GCP Cloud Shell / Cloud Console](#gcp-cloud-shell--cloud-console)
+- [IAM Permission Mapping](#iam-permission-mapping)
+- [Service accounts](#service-accounts)
+- [Auditing / Logging](#auditing--logging)
 ## Introduction
 This Access Policy establishes guidelines for managing Google Cloud Platform (GCP) accounts within our organization. It covers the creation and management of both standard and elevated accounts, emphasizing security through multi-factor authentication with YubiKey, adherence to password policies, and the principle of least privilege. Designed to maintain secure and efficient access to our cloud resources, this policy aligns with our organizational security standards and regulatory compliance, ensuring a consistent and secure approach to our GCP infrastructure management.
 
