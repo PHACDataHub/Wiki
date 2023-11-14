@@ -12,11 +12,8 @@
 * [Access Policy](#access-policy)
 * [Monitoring](#monitoring)
 * [Incident Response](#incident-response)
-* [Prerequisites](#prerequisites)
-* [Assumptions](#assumptions)
-* [Discovery of a Security Incident](#discovery-of-a-security-incident)
-* [Post Incident Recovery](#post-incident-recovery)
 * [Identification and Authentication](#identification-and-authentication)
+* [FinOps](#finops)
 
 ## Purpose of the System
 The DMIA Google Cloud account is used to provide data infrastructure and access to Googles first-party SaaS offerings to support the epidemiological and public health work of the agency.
