@@ -21,10 +21,11 @@ This policy shall be reviewed annually.
 | Role | Responsibility | Additional Notes
 |----------------------------------------|-----------------------|---|
 | Identity Creation                      | GCP Admin at HC / DTB ||
-| Elevated Account provisioning          | GCP Admin at HC / DTB                    ||
+| Elevated Account provisioning          | GCP Admin at HC / DTB ||
 | GCP Account Management (IAM)           | ...                   ||
-| Permission Mapping for Identities (Project Level)     | ...                   ||
-| Service Account management (Project Level)            | ...                   ||
+| Permission Mapping for Identities (DMIA Level) | GCP Admin at HC / DTB | HC Does mappings for things such as the infrastructure service account(s) that automate project creation, and for elevated accounts |
+| Permission Mapping for Identities (Project Level)     | handled by individual project ||
+| Service Account management (Project Level)            | handled by individual project ||
 | Access Review                          | ...                   ||
 | YubiKey provisioning                   | PHAC Infrastructure Team                   ||
 | Maintenance IaD / IaC                  | ...                   ||
