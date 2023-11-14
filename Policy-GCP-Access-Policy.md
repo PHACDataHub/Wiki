@@ -1,6 +1,7 @@
 # Access Policy
 ## Table of Contents
 - [Introduction](#introduction)
+- [Roles and Responsibilities](#roles-and-responsibilities)
 - [Base GCP Account (all users)](#base-gcp-account-all-users)
 - [YubiKey](#yubikey)
   - [Lost or Stolen YubiKey](#lost-or-stolen-yubikey)
