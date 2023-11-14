@@ -26,7 +26,7 @@ This policy shall be reviewed annually.
 | Permission Mapping for Identities (DMIA Level) | GCP Admin at HC / DTB | HC Does mappings for things such as the infrastructure service account(s) that automate project creation, and for elevated accounts |
 | Permission Mapping for Identities (Project Level)     | handled by individual project ||
 | Service Account management (Project Level)            | handled by individual project ||
-| Access Review                          | ...                   ||
+| Access Review                          | Both PHAC and HC | HC generates reports on account usage, and flags accounts for handling that are not being used.  If PHAC is aware of a reason to change an identity's status (i.e. user left PHAC), then HC is informed in an Administrative chat PHAC and HC share. |
 | YubiKey provisioning                   | PHAC Infrastructure Team                   ||
 | Maintenance IaD / IaC                  | ...                   ||
 
