@@ -6,6 +6,7 @@
 [[Concept Of Operations (ConOps) ‐ GCP]]
 * [[Policy-GCP-Access-Policy]]
 * [[Policy-GCP-Logging-and-Audit-Policy]]
+* [[GCP-User-Access-Agreement]]
 
 
 [[Bainers GCP Notes]]
