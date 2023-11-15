@@ -78,4 +78,4 @@ All GCP identities use a password policy created at the org level of the tenant.
 ## Auditing / Logging
 * All resources in GCP are subject to being logged.  
 * Security Command Centre is used to view current security state.  It can be scoped in many ways as needed.
-* @TODO: What alerts are needed?
+* [[GCP Logging and Audit Policy|Policy-GCP-Logging-and-Audit-Policy]]
