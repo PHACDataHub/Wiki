@@ -26,6 +26,21 @@ The following table outlines the key roles and their associated responsibilities
 | **HC/DTB GCP Team**                              | - Auditing and logging<br>- Incident response coordination                                          | Coordinates security measures, including logging and incident response, across the GCP infrastructure.                 |
 | **Users**                                        | - Reporting lost or stolen YubiKeys<br>- Complying with access and authentication protocols         | Required to adhere to security protocols and promptly report any security incidents. 
 
+## Defining Auditable Events
+The PHAC GCP infrastructure team will define auditable events based on the CCCS Medium Cloud profile. Events will include successful and unsuccessful logons, account management, object access, policy changes, and system events, among others. For applications and projects, DMIA will:
+- Monitor a default set of auditable events.
+- Offer services to monitor additional events by request.
+- Collaborate with DTB to determine the extent to which SCC can be configured for specific event monitoring.
+
+## Monitoring and Notification of Findings
+Monitoring frequency and notification protocols are as follows:
+- Continuous monitoring will be conducted by the PHAC infrastructure team.
+- Findings will be notified immediately to relevant stakeholders to trigger incident management procedures.
+
+## Protection of Audit Information
+Audit information will be protected from unauthorized access and modification. The PHAC infrastructure team will implement controls to ensure the integrity of audit logs in compliance with AU-9.
+
+
 ## Security Command Centre (SCC)
 The Google Cloud Platform's Security Command Centre (SCC) provides an integrated solution for monitoring and responding to security and data risks across GCP projects. This documentation focuses on leveraging the SCC for comprehensive logging and auditing, which are crucial for maintaining security and compliance in cloud environments.
 ## Infrastructure (Org-scale)
