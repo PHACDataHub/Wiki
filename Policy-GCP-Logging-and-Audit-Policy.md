@@ -26,12 +26,10 @@ The following table outlines the key roles and their associated responsibilities
 | **HC/DTB GCP Team**                              | - Auditing and logging<br>- Incident response coordination                                          | Coordinates security measures, including logging and incident response, across the GCP infrastructure.                 |
 | **Users**                                        | - Reporting lost or stolen YubiKeys<br>- Complying with access and authentication protocols         | Required to adhere to security protocols and promptly report any security incidents. 
 
-## Defining Auditable Events
-The PHAC GCP infrastructure team will define auditable events based on the CCCS Medium Cloud profile. Events will include successful and unsuccessful logons, account management, object access, policy changes, and system events, among others. 
-
 ## Monitoring and Notification of Findings
 Monitoring frequency and notification protocols are as follows:
 - Monitoring is always ongoing once SCC is enabled.  
+- @TODO: Confirm event types: successful and unsuccessful logons, account management, object access, policy changes, and system events, among others
 - @TODO: Custom alerts have to be set up.
 
 ## Protection of Audit Information
