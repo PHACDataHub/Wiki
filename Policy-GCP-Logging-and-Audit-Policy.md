@@ -27,15 +27,12 @@ The following table outlines the key roles and their associated responsibilities
 | **Users**                                        | - Reporting lost or stolen YubiKeys<br>- Complying with access and authentication protocols         | Required to adhere to security protocols and promptly report any security incidents. 
 
 ## Defining Auditable Events
-The PHAC GCP infrastructure team will define auditable events based on the CCCS Medium Cloud profile. Events will include successful and unsuccessful logons, account management, object access, policy changes, and system events, among others. For applications and projects, DMIA will:
-- Monitor a default set of auditable events.
-- Offer services to monitor additional events by request.
-- Collaborate with DTB to determine the extent to which SCC can be configured for specific event monitoring.
+The PHAC GCP infrastructure team will define auditable events based on the CCCS Medium Cloud profile. Events will include successful and unsuccessful logons, account management, object access, policy changes, and system events, among others. 
 
 ## Monitoring and Notification of Findings
 Monitoring frequency and notification protocols are as follows:
-- Continuous monitoring will be conducted by the PHAC infrastructure team.
-- Findings will be notified immediately to relevant stakeholders to trigger incident management procedures.
+- Monitoring is always ongoing once SCC is enabled.  
+- @TODO: Custom alerts have to be set up.
 
 ## Protection of Audit Information
 Audit information will be protected from unauthorized access and modification by the built-in security trimming in GCP. Only people with the appropriate GCP role will be able to see all logs.  Individual projects are allowed to see things associated to their project in SCC.
