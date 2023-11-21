@@ -3,6 +3,18 @@
 ## Introduction
 In the dynamic environment of Google Cloud Platform (GCP), robust logging and audit mechanisms are vital to safeguarding our digital assets and ensuring compliance with industry standards. This policy delineates the framework for utilizing the Security Command Centre (SCC) to monitor, log, and audit activities across our GCP projects. It is crafted to provide clear directives for the PHAC GCP infrastructure team and project owners, ensuring accountability and swift response to security and data risks. The policy also outlines the collaboration with Health Canada (HC) for comprehensive coverage and the integration of advanced monitoring tools like MS Sentinel and CCCS cloud sensors. By standardizing our approach to logging and auditing, we aim to foster a secure cloud ecosystem where infrastructure integrity and incident response readiness are paramount.
 
+## Roles and Responsibilities
+
+The following table outlines the key roles and their associated responsibilities within the GCP Access Policy framework. This division of responsibilities ensures clarity in the management of GCP identities, provisioning of YubiKeys, and the maintenance of our cloud infrastructure.
+
+| Role                                             | Responsibility                                                                                      | Additional Notes                                                                                                      |
+|--------------------------------------------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| **GCP Admin at HC/DTB**                          | - Initial identity creation<br>- Password policy enforcement<br>- Elevated account provisioning      | Responsible for overarching access controls and policy enforcement within the GCP environment.                         |
+| **PHAC Infrastructure Team**                     | - YubiKey provisioning<br>- Service account management                                              | Handles the distribution and management of YubiKeys and oversees service accounts at the PHAC level.                   |
+| **Individual Project Teams**                     | - Permission mapping for identities<br>- Service account management<br>- Access review              | Manages project-specific access controls, reviews access privileges, and maintains service accounts within projects.   |
+| **HC/DTB GCP Team**                              | - Auditing and logging<br>- Incident response coordination                                          | Coordinates security measures, including logging and incident response, across the GCP infrastructure.                 |
+| **Users**                                        | - Reporting lost or stolen YubiKeys<br>- Complying with access and authentication protocols         | Required to adhere to security protocols and promptly report any security incidents. 
+
 ## Security Command Centre (SCC)
 The Google Cloud Platform's Security Command Centre (SCC) provides an integrated solution for monitoring and responding to security and data risks across GCP projects. This documentation focuses on leveraging the SCC for comprehensive logging and auditing, which are crucial for maintaining security and compliance in cloud environments.
 ## Infrastructure (Org-scale)
