@@ -3,7 +3,6 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Roles and Responsibilities](#roles-and-responsibilities)
-- [Defining Auditable Events](#defining-auditable-events)
 - [Monitoring and Notification of Findings](#monitoring-and-notification-of-findings)
 - [Protection of Audit Information](#protection-of-audit-information)
 - [Infrastructure (Org-scale)](#infrastructure-org-scale)
