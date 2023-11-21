@@ -1,5 +1,16 @@
 # Logging and Audit Policy
 
+## Table of Contents
+- [Introduction](#introduction)
+- [Roles and Responsibilities](#roles-and-responsibilities)
+- [Defining Auditable Events](#defining-auditable-events)
+- [Monitoring and Notification of Findings](#monitoring-and-notification-of-findings)
+- [Protection of Audit Information](#protection-of-audit-information)
+- [Infrastructure (Org-scale)](#infrastructure-org-scale)
+- [Infrastructure-Team Owned Template-Based Applications](#infrastructure-team-owned-template-based-applications)
+- [Custom Applications](#custom-applications)
+- [Incident Response](#incident-response)
+
 ## Introduction
 In the dynamic environment of Google Cloud Platform (GCP), robust logging and audit mechanisms are vital to safeguarding our digital assets and ensuring compliance with industry standards. This policy delineates the framework for utilizing the Security Command Centre (SCC) to monitor, log, and audit activities across our GCP projects. It is crafted to provide clear directives for the PHAC GCP infrastructure team and project owners, ensuring accountability and swift response to security and data risks. The policy also outlines the collaboration with Health Canada (HC) for comprehensive coverage and the integration of advanced monitoring tools like MS Sentinel and CCCS cloud sensors. By standardizing our approach to logging and auditing, we aim to foster a secure cloud ecosystem where infrastructure integrity and incident response readiness are paramount.
 
