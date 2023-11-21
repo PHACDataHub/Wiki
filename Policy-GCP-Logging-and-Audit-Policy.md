@@ -38,7 +38,7 @@ Monitoring frequency and notification protocols are as follows:
 - Findings will be notified immediately to relevant stakeholders to trigger incident management procedures.
 
 ## Protection of Audit Information
-Audit information will be protected from unauthorized access and modification. The PHAC infrastructure team will implement controls to ensure the integrity of audit logs in compliance with AU-9.
+Audit information will be protected from unauthorized access and modification by the built-in security trimming in GCP. Only people with the appropriate GCP role will be able to see all logs.  Individual projects are allowed to see things associated to their project in SCC.
 
 
 ## Security Command Centre (SCC)
@@ -54,5 +54,6 @@ Example: A template that spins up Vertex + storage bucket for a finite time for 
 ## Custom Applications
 * Individual projects will be responsible for logging in their own application (assuming a custom application of some sort).  How this works is TBD per project.
 * All projects will be able to use SCC to view security-data about their applications.
+* The ability to view SCC entries for a given project is built into the normal permission structure for projects.  This also aligns with PHAC's desire to empower projects to be more responsible for their own products (where applicable).
 ## Incident Response
 * [[Incident Response|Concept-Of-Operations-(ConOps)-‐-GCP#discovery-of-a-security-incident]]
