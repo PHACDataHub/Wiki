@@ -3,6 +3,8 @@
 - [Introduction](#introduction)
 - [Roles and Responsibilities](#roles-and-responsibilities)
 - [Base GCP Account (all users)](#base-gcp-account-all-users)
+  - [Shared Identities](#shared-identities)
+  - [Password Policy](#password-policy)
 - [YubiKey](#yubikey)
   - [Lost or Stolen YubiKey](#lost-or-stolen-yubikey)
 - [Non-Elevated Accounts](#non-elevated-accounts)
