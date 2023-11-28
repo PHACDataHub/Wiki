@@ -37,6 +37,9 @@ Currently this involves making a request to HC/DTB for an account to be created.
 
 The same above step is used for password resets or if an account has to be recreated due to MFA issues.
 
+### Shared Identities
+We do not allow creation of an account that is meant to be shared by multiple users.  The only exception to this is the break-glass emergency recovery accounts managed by HC
+
 ### Password Policy
 All GCP identities use a password policy created at the org level of the tenant. The HC GCP team controls this. PHAC uses whatever settings HC is using.
 
