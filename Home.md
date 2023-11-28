@@ -8,6 +8,7 @@
 * [[Policy-GCP-Logging-and-Audit-Policy]]
 * [[GCP-User-Access-Agreement]]
 * [[GCP-New-User-Welcome-Email]]
+* [[GCP‐Design‐Decision‐Log]]
 
 
 [[Bainers GCP Notes]]
