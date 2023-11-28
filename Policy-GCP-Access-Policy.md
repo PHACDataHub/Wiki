@@ -46,7 +46,7 @@ We do not allow creation of an account that is meant to be shared by multiple us
 All GCP identities use a password policy created at the org level of the tenant. The HC GCP team controls this. PHAC uses whatever settings HC is using.
 
 ## YubiKey
-* All users brought into GCP because of a PHAC request will be issued a YubiKey to have hardware-based MFA.
+* All users brought into GCP because of a PHAC request will be issued a YubiKey to have hardware-based MFA.  Exceptions can be made in emergencies, however, a YubiKey will eventually be issued.  The user is allowed to use an Authenticator app until they receive their YubiKey.
 * All YubiKeys issued are permanently issued to the user, and can be used for more than just GCP MFA.  Users are encouraged to use them for greater personal online security.  There is no returning the key to PHAC once it is issued.
 * Staff provisions a security key to the user using Yubico Enterprise Delivery Portal.
 * Users are encouraged to use an authenticator app as their back-up.
