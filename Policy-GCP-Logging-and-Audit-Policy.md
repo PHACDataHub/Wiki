@@ -39,6 +39,8 @@ Audit information will be protected from unauthorized access and modification by
 
 The PHAC administrative team is small.  All admins have the rights to view logs and audit entries in order to have enough people available for this activity when needed.
 
+If the PHAC administration team is unavailable, and the issue cannot wait, then the HC GCP Admin team should be contacted for support.
+
 
 ## Security Command Centre (SCC)
 The Google Cloud Platform's Security Command Centre (SCC) provides an integrated solution for monitoring and responding to security and data risks across GCP projects. This documentation focuses on leveraging the SCC for comprehensive logging and auditing, which are crucial for maintaining security and compliance in cloud environments.
