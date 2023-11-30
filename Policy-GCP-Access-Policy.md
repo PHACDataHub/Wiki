@@ -53,7 +53,7 @@ All GCP identities use a password policy created at the org level of the tenant.
 * We should investigate if it is possible to have SMS/Email turned off in the tenant as an option.
    * This may only be possible if we get our own org to manage in the tenant due to HC having it on for all users at the moment.
 ### Lost or Stolen YubiKey
-* @TODO NEEDS PROCESS
+* Process [doc/template is kept in SharePoint](https://022gc.sharepoint.com/:w:/r/sites/InformationTechnology-PlanandOrganizeDMIA-GDIACDSB-DMIAD/Shared%20Documents/Data%20Enablement/02_Cloud%20Platform%20(and)%20Development/DTB%20Processes/[LostYubiKeyReport.docx](https://022gc.sharepoint.com/:w:/r/sites/InformationTechnology-PlanandOrganizeDMIA-GDIACDSB-DMIAD/Shared%20Documents/Data%20Enablement/02_Cloud%20Platform%20(and)%20Development/DTB%20Processes/LostYubiKeyReport.docx?d=w694d2d2aca614d418cae4d36413bdf6e&csf=1&web=1&e=wHL6N2)?d=w694d2d2aca614d418cae4d36413bdf6e&csf=1&web=1&e=wHL6N2).
 * Users must report a lost or stolen YubiKey as soon as possible.
 *  The action taken will be to remove the YubiKey association from the user' GCP identity, and they will have to use the authentication app until a new YubiKey is issued.
 * PHAC Infrastructure team will notify HC/DTB GCP team in the shared admin chat what identity needs to have the YubiKey disassociated.  HC will remove the YubiKey and notfiy PHAC in the admin channel when it is completed.
