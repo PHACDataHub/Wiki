@@ -37,6 +37,8 @@ Monitoring frequency and notification protocols are as follows:
 ## Protection of Audit Information
 Audit information will be protected from unauthorized access and modification by the built-in security trimming in GCP. Only people with the appropriate GCP role will be able to see all logs.  Individual projects are allowed to see things associated to their project in SCC.
 
+The PHAC administrative team is small.  All admins have the rights to view logs and audit entries in order to have enough people available for this activity when needed.
+
 
 ## Security Command Centre (SCC)
 The Google Cloud Platform's Security Command Centre (SCC) provides an integrated solution for monitoring and responding to security and data risks across GCP projects. This documentation focuses on leveraging the SCC for comprehensive logging and auditing, which are crucial for maintaining security and compliance in cloud environments.
