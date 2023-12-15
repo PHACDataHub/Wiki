@@ -44,10 +44,10 @@ For access to the Research Workbench and guidelines on its use, please contact t
 
 ## Service Capacity
 
-🪫 (Moderate to High)
+🪫 (Low)
 
 The Research Workbench is built with scalable technologies to accommodate increasing demands. Contact our team for more information on capacity and scaling options.
 
 ## Service Timelines
 
-The Research Workbench is available for immediate use with ongoing support for scalability and technological upgrades.
+The Research Workbench is available for immediate use with best effort levels support.
