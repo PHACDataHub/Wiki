@@ -23,6 +23,10 @@ The Noble (Experimentation) service is designed to bridge the gap between the Ex
 2. **Proof of Concept Validation**: Utilize the Noble (Experimentation) service as a dedicated space to validate proof of concept (POC) ideas and make informed decisions about proceeding with full-scale development.
 3. **High Availability and Scalability Testing**: Test the performance, reliability, and scalability of applications by leveraging the resources and infrastructure capabilities of the Noble (Experimentation) service.
 
+## Poster
+
+![image](https://github.com/PHACDataHub/Wiki/assets/367922/4b9092db-ff66-4f58-a8d0-f918f954cba8)
+
 
 ## Success Stories
 
