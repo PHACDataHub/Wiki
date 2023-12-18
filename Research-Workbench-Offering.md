@@ -1,14 +1,14 @@
-# Research Workbench
+# Research Workbench(Beta)
 
-The Research Workbench is an advanced data management and analysis platform dedicated to public health research. It provides a secure, accessible environment for housing, retrieving, and analyzing a vast array of public health data.
+The Research Workbench is a data management and analysis platform dedicated to public health research. It provides a secure, accessible environment for retrieving and analyzing data.
 
 ## Description
 
-A dedicated repository designed to store, retrieve, and analyze a myriad of research data pertinent to public health. This platform ensures that valuable research data is both safeguarded and easily accessible, fostering a culture of informed decision-making and collaborative research.
+A dedicated temporary repository designed to store, retrieve, and analyze a myriad of research data pertinent to public health. This platform ensures that valuable research data is both safeguarded and easily accessible, fostering a culture of informed decision-making and collaborative research.
 
 ## Features
 
-- **Data Repository**: A comprehensive platform for the storage and retrieval of public health research data.
+- **Data Repository**: A platform for the temporary storage and retrieval of public health research data.
 - **Data Security**: Ensures that all research data is safeguarded and easily accessible.
 - **Data-Driven Decision Making**: Facilitates a culture of informed decision-making through collaborative research.
 
@@ -30,11 +30,11 @@ Indispensable for researchers, data scientists, public health analysts, and inst
 
 ## Success Stories
 
-- **Case Study**: Utilization of the Workbench by a team for developing a data-driven application contributing to a significant public health report or initiative.
+- Currently looking for testers
 
 ## Getting Started
 
-For access to the Research Workbench and guidelines on its use, please contact the designated Public Health Data Management team.
+For access to the Research Workbench and guidelines on its use, please contact DMIA team.
 
 ## Limitations
 
