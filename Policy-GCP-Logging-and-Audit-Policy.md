@@ -3,12 +3,14 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Roles and Responsibilities](#roles-and-responsibilities)
+- [Audit and Logging](#audit-and-logging)
 - [Monitoring and Notification of Findings](#monitoring-and-notification-of-findings)
 - [Protection of Audit Information](#protection-of-audit-information)
 - [Infrastructure (Org-scale)](#infrastructure-org-scale)
 - [Infrastructure-Team Owned Template-Based Applications](#infrastructure-team-owned-template-based-applications)
 - [Custom Applications](#custom-applications)
 - [Incident Response](#incident-response)
+
 
 ## Review
 This policy should be reviewed on an annual basis.
@@ -28,6 +30,39 @@ The following table outlines the key roles and their associated responsibilities
 | **HC/DTB GCP Team**                              | - Auditing and logging<br>- Incident response coordination                                          | Coordinates security measures, including logging and incident response, across the GCP infrastructure.<br>- @TODO permission/roles (add a column)                 |
 | **Users**                                        | - Reporting lost or stolen YubiKeys<br>- Complying with access and authentication protocols         | Required to adhere to security protocols and promptly report any security incidents. 
 
+## Audit and Logging
+### Per security controls AU-2 - all systems will be capable of auditing the following events if applicable: 
+* Successful and unsuccessful account logon events, 
+* Account management events, 
+* Object access, 
+* Policy change, 
+* Privilege functions, 
+* Process tracking, 
+* System events.  
+
+For Web applications: 
+* All administrator activity, 
+* Authentication checks, 
+* Authorization checks, 
+* Data deletions, 
+* Data access, 
+* Data changes
+* Permission changes.
+
+### Specifically (at a minimum) all systems will be able to audit the following:
+For privileged user/process events (if applicable)
+* Successful and unsuccessful attempts to access, modify, or delete security objects (Security objects include audit data, system configuration files and file or users’ formal access permissions.)
+* Successful and unsuccessful logon attempts
+* Privileged activities or other system level access
+* Starting and ending time for user access to the system
+* Concurrent logons from different workstations
+* All program initiations 
+
+For unprivileged user/process events:
+* Successful and unsuccessful attempts to access, modify, or delete security objects
+* Successful and unsuccessful logon attempts
+* Starting and ending time for user access to the system
+* Concurrent logons from different workstations
 ## Monitoring and Notification of Findings
 Monitoring frequency and notification protocols are as follows:
 - Monitoring is always ongoing once SCC is enabled.  
