@@ -57,6 +57,7 @@ All GCP identities use a password policy created at the org level of the tenant.
 * Users must report a lost or stolen YubiKey as soon as possible.
 *  The action taken will be to remove the YubiKey association from the user' GCP identity, and they will have to use the authentication app until a new YubiKey is issued.
 * PHAC Infrastructure team will notify HC/DTB GCP team in the shared admin chat what identity needs to have the YubiKey disassociated.  HC will remove the YubiKey and notfiy PHAC in the admin channel when it is completed.
+* The audit reports for the user who lost the YubiKey will be pulled to see if the hardware key was used after the estimated loss date.  If there was usage, then a security incident is started and ITSecOps is alerted.
 ## Non-Elevated Accounts
 * In Experimentation: Normal users will have Owner or Editor roles on a given project.
 * In Operations:  Normal users will not have privileges to create anything.  They will likely be limited to view, or a custom role that would allow them to upload/download data to work with a system in operations (dev/test/prod).
