@@ -81,6 +81,8 @@ This section details the relevant security operations of the GCP project base:
 
 **Monitoring and Auditing**: All logs from services running within GCP projects are visible at the organization level and will be monitored by DMIA staff with that access. Google provides several tools for real-time monitoring and logging, like Google Cloud Audit Logs and Google Cloud Monitoring. These allow for continuous oversight of the system's health and activity, identifying and alerting about potential security threats.
 
+All security information is accessible via the Security Command Center (SCC).  The PHAC GCP Infrastructure team will be monitoring for events on an ongoing basis.
+
 Current Auditing and Logging Policy: [[GCP Logging and Audit Policy|Policy-GCP-Logging-and-Audit-Policy]]
 
 **Security Compliance**: GCP's security infrastructure is compliant with major certifications and regulations, ensuring it aligns with the best practices and requirements set forth by established standards.
