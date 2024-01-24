@@ -64,6 +64,7 @@ All GCP identities use a password policy created at the org level of the tenant.
 ## Elevated Accounts
 * At the moment elevated accounts are created with the following format: “admin.fname.lname@gcp.hc-sc.gc.ca”
 * Elevated permissions are negotiated with HC as needed.
+* All Elevated accounts must use corporate devices to work in GCP.
 * Future:  We intend to move to a JIT access model.  Where the elevated accounts will elevate themselves as needed for limited amounts of time.
 ## Access Reviews
 * Accounts are currently reviewed manually by DTB. The interval is not yet known to the DE team.
