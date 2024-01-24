@@ -6,7 +6,7 @@
 - [Audit and Logging](#audit-and-logging)
 - [Monitoring and Notification of Findings](#monitoring-and-notification-of-findings)
 - [Protection of Audit Information](#protection-of-audit-information)
-- [Infrastructure (Org-scale)](#infrastructure-org-scale)
+- [Security Command Centre (SCC)](#security-command-centre-scc)
 - [Infrastructure-Team Owned Template-Based Applications](#infrastructure-team-owned-template-based-applications)
 - [Custom Applications](#custom-applications)
 - [Incident Response](#incident-response)
