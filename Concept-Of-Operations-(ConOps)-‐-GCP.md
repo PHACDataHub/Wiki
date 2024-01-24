@@ -94,8 +94,6 @@ Continuous Improvement: Google Cloud's Security Command Center provides insights
 Google Cloud Projects will be leveraged to form a security boundary around the Protected B data it processes and stores, utilizing GCP's robust security features to maintain the highest level of protection and integrity for the data.
 
 ## Access Policy
-@TODO Blurb on access and identity management (offboarding?) JF has raised the want/need to verify clearance for new users to be at least reliability… How does this play when we are bringing guests into the tenant for rapid response things?  How does OICD sit in this?
-
 Current PHAC access management policy: [[GCP Access Policy|Policy-GCP-Access-Policy]]
 Current PHAC User Access Agreement: [[GCP User Access Agreement|GCP-User-Access-Agreement]]
 ## Monitoring
@@ -143,5 +141,4 @@ PHAC Business Owner|Informed to be aware of incident and take actions to avoid t
 ## FinOps
 * Budgets are set for all projects.
 * Alerts are set for all projects at 50%, 75%, and 90% levels
-* @TODO: Outline more?
 
