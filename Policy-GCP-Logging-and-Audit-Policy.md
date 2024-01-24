@@ -78,10 +78,10 @@ If the PHAC administration team is unavailable, and the issue cannot wait, then 
 ## Security Command Centre (SCC)
 The Google Cloud Platform's Security Command Centre (SCC) provides an integrated solution for monitoring and responding to security and data risks across GCP projects. This documentation focuses on leveraging the SCC for comprehensive logging and auditing, which are crucial for maintaining security and compliance in cloud environments.
 ## Infrastructure (Org-scale)
-* The PHAC GCP infrastructure team will have access to all entries in SCC within the DMIA portion of the tenant.  Health Canada is responsible for everything else.
-* Additionally, HC can consume logs from within the DMIA portion of the tenant to allow a more holistic view of the current state.
-* There is likely going to be a mechanism that sends some events to MS Sentinel in Azure per what HC Security wants.  This is beyond the scope of the PHAC infrastructure team to handle.
-* Work is being started on incorporating CCCS cloud sensors as well.
+* For Security events, HC GCP is RESPONSIBLE and ACCOUNTABLE, while the DMIA Infrastructure team is to be CONSULTED and INFORMED (in RACI terms).
+* HC GCP will ensure an appropriate level of monitoring to communicate timely information on security events.
+* If a security incident occurs which directly impacts DMIA related work, the DMIA team is CONSULTED prior to and INFORMED about actions being taken. DMIA will liaise with the client project owners to ensure issues are addressed, if needed. => This last point is a level of RESPONSIBLE for the local task which is important but different from the overarching R mentioned above.
+
 ## Infrastructure-Team Owned Template-Based Applications
 Example: A template that spins up Vertex + storage bucket for a finite time for processing and is then destroyed when done.  The client owns the input and output, but not the infrastructure in this scenario.
 * This is covered in the Org-scale section above.
