@@ -46,7 +46,7 @@ For access to the Research Workbench and guidelines on its use, please contact D
 
 🪫 (Low)
 
-The Research Workbench is built with scalable technologies to accommodate increasing demands. Contact our team for more information on capacity and scaling options.
+Contact our team for more information on capacity and scaling options.
 
 ## Service Timelines
 
