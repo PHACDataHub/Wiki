@@ -32,6 +32,10 @@ Indispensable for researchers, data scientists, public health analysts, and inst
 
 - Currently looking for testers
 
+## Poster
+
+![image](https://github.com/PHACDataHub/Wiki/assets/367922/4b9092db-ff66-4f58-a8d0-f918f954cba8)
+
 ## Getting Started
 
 For access to the Research Workbench and guidelines on its use, please contact DMIA team.
