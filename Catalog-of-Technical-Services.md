@@ -19,3 +19,4 @@ We encourage you to explore our catalog and reach out to us if you have any ques
 * [[Noble (Experimentation) Offering]]
 * [[PHAC Alpha DNS Offering]]
 * [[Research Workbench Offering]]
+* [[Epidemiologist R Analytics Environment]]
