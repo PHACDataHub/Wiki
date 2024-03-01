@@ -58,4 +58,4 @@ As we are searching for use cases, the first few projects will receive extensive
 
 ## Service Timelines
 
-The Research Workbench is available for immediate use with best effort levels support.
+The Epidemiologist R Analytics Environment is available for immediate use for UNCLASSIFIED data with best effort levels support.
