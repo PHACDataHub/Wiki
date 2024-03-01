@@ -1,6 +1,14 @@
-# Research Workbench(Beta)
+# Epidemiologist R Analytics Environment (Beta)
 
-The Research Workbench is a data management and analysis platform dedicated to public health research. It provides a secure, accessible environment for retrieving and analyzing data.
+>[!IMPORTANT]
+>This offering is currently in Beta. At this time, we can accommodate **UNCLASSIFIED** workloads.
+
+The Epidemiologist Analytics Environment is an environment that enables Epidemiologists to engage in analytics and information product management. This environment is suitable for both short-lived "ad-hoc" experimentation as well as long-term management of information products.
+
+![epi-analytics-environments](images/epi-analytics-environments.drawio.png)
+
+## Statustyle="input:checked + div.conditional-checkbox-target { display: none; }"s
+
 
 ## Description
 
