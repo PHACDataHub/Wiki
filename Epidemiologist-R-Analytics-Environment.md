@@ -5,7 +5,7 @@
 
 The Epidemiologist R Analytics Environment is an environment that enables Epidemiologists to engage in analytics and information product management. This environment is suitable for both short-lived "ad-hoc" experimentation as well as long-term management of information products.
 
-![epi-analytics-environments](images/epi-analytics-environments.drawio.png)
+![epi-analytics-environments drawio](https://github.com/PHACDataHub/Wiki/assets/8021046/ddf02d35-7049-44a2-a048-feb838888614)
 
 ## Description
 
