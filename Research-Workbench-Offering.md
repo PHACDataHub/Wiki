@@ -3,26 +3,29 @@
 >[!IMPORTANT]
 >This offering is currently in Beta. At this time, we can accommodate **UNCLASSIFIED** workloads.
 
-The Epidemiologist Analytics Environment is an environment that enables Epidemiologists to engage in analytics and information product management. This environment is suitable for both short-lived "ad-hoc" experimentation as well as long-term management of information products.
+The Epidemiologist R Analytics Environment is an environment that enables Epidemiologists to engage in analytics and information product management. This environment is suitable for both short-lived "ad-hoc" experimentation as well as long-term management of information products.
 
 ![epi-analytics-environments](images/epi-analytics-environments.drawio.png)
 
-## Statustyle="input:checked + div.conditional-checkbox-target { display: none; }"s
-
-
 ## Description
 
-A dedicated temporary repository designed to store, retrieve, and analyze a myriad of research data pertinent to public health. This platform ensures that valuable research data is both safeguarded and easily accessible, fostering a culture of informed decision-making and collaborative research.
+There are three primary goals of this service offering:
+
+- Provide epidemiologists with a familiar RStudio development environment, along with the ability to use as much or as little compute and storage as they require.
+
+- Provide epidemiologists with the ability to securely deploy RShiny dashboards, along with the ability to control who has permission to view the contents of the dashboards.
+
+- Dedicated and involved customer support from our IT staff. Getting started in a new cloud environment can be challenging, our staff can help as much or as little as is needed for your project to succeed on our environment.
 
 ## Features
 
-- **Data Repository**: A platform for the temporary storage and retrieval of public health research data.
-- **Data Security**: Ensures that all research data is safeguarded and easily accessible.
-- **Data-Driven Decision Making**: Facilitates a culture of informed decision-making through collaborative research.
+- **Scalable Data Storage**: [Google Cloud Storage buckets](https://cloud.google.com/storage/docs/json_api/v1/buckets) allow you to store as much data as you need.
+- **Scalable Compute**: Choose from any of the supported [GCP available machine types](https://cloud.google.com/workstations/docs/available-machine-types). At the time of writing, you can use as little as 1 vCPU and 4 GB memory or as much as 96 vCPU and 360 GB memory, depending on your requirements.
+- **Authenticated RShiny Dashboard Hosting**: Host your RShiny dashboard behind a layer of authentication, verifying users' identities before they can access the dashboard.
 
 ## Who Uses This?
 
-Indispensable for researchers, data scientists, public health analysts, and institutions that prioritize data-driven insights in the realm of public health.
+This offering is geared towards epidemiologists who either have ongoing information 
 
 ## Key Benefits
 
