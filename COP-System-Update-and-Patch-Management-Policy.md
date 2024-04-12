@@ -18,7 +18,7 @@ PHAC commits to maintaining IT systems that are secure, reliable, and aligned wi
 - **Assessment and Planning**:
   - Conduct regular assessments of all IT systems to determine the necessity of updates or patches.
   - Schedule updates during off-peak hours to minimize disruption to services.
-  - Ensure that all updates are tested in a controlled environment before full deployment.
+  - When possible test major patches in a controlled environment.
 
 - **Security and Compliance**:
   - Prioritize patches that address security vulnerabilities.
