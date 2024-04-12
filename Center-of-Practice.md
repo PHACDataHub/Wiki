@@ -55,6 +55,7 @@ The Public Health Data Center of Practice uses cloud computing services to store
 * [[COP Compliance Policy]]
 * [[COP Data Management Policy]]
 * [[COP Git Repository Policy]]
+* [[COP System Update and Patch Management Policy]]
 
 ### Processes
 * [Business Intake Processes](Intake-Processes)
